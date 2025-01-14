@@ -1,0 +1,141 @@
+{
+    "sync.gist": "f16e7ebbc0a84549b91271d6fe74b0f0",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "git.suggestSmartCommit": false,
+    "git.confirmEmptyCommits": false,
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Night Owl",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+    },
+    "errorLens.excludeBySource": [
+        "intelephense(1009)",
+        "eslint(no-unused-vars)"
+    ],
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "editor.stickyScroll.enabled": true,
+    "settings-repository.branch": "main",
+    "settings-repository.repository": "https://github.com/luiscarneiro13/vscode.git",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 13.5,
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "bitoAI.codeCompletion.setAutoCompletionTriggerLogic": 250,
+    "bitoAI.codeCompletion.enableAutoCompletion": true,
+    "bitoAI.codeCompletion.enableCommentToCode": true,
+    "editor.inlineSuggest.showToolbar": "always",
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "vetur.format.defaultFormatter.html": "prettier",
+    "prettier.printWidth": 200,
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "vetur.format.defaultFormatterOptions": {
+        "prettier": {
+            "printWidth": 200,
+            "htmlWhitespaceSensitivity": "ignore"
+        }
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[sql]": {
+        "editor.defaultFormatter": "cweijan.vscode-mysql-client2"
+    },
+    "intelephense.environment.phpVersion": "7.4", // O la versión de PHP que estés usando
+    "intelephense.files.associations": ["*.php", "*.phtml"],
+    "intelephense.files.exclude": [
+        "**/node_modules/**",
+        "**/bower_components/**",
+        "**/vendor/**/{Test,test,Tests,tests}/**",
+        "**/.git/**",
+        "**/.svn/**",
+        "**/.hg/**",
+        "**/CVS/**",
+        "**/.DS_Store/**"
+    ],
+    "intelephense.stubs": [
+        "apache",
+        "bcmath",
+        "bz2",
+        "calendar",
+        "com_dotnet",
+        "Core",
+        "curl",
+        "date",
+        "dba",
+        "dom",
+        "enchant",
+        "exif",
+        "FFI",
+        "fileinfo",
+        "filter",
+        "fpm",
+        "ftp",
+        "gd",
+        "gettext",
+        "gmp",
+        "hash",
+        "iconv",
+        "imap",
+        "intl",
+        "json",
+        "ldap",
+        "libxml",
+        "mbstring",
+        "mcrypt",
+        "mysqli",
+        "oci8",
+        "odbc",
+        "openssl",
+        "pcntl",
+        "pcre",
+        "PDO",
+        "pgsql",
+        "Phar",
+        "posix",
+        "pspell",
+        "readline",
+        "Reflection",
+        "session",
+        "shmop",
+        "SimpleXML",
+        "snmp",
+        "soap",
+        "sockets",
+        "sodium",
+        "SPL",
+        "sqlite3",
+        "standard",
+        "superglobals",
+        "sysvmsg",
+        "sysvsem",
+        "sysvshm",
+        "tokenizer",
+        "wddx",
+        "xml",
+        "xmlreader",
+        "xmlwriter",
+        "xsl",
+        "Zend OPcache",
+        "zip",
+        "zlib"
+    ],
+    "intelephense.files.maxSize":1000000
+
+}

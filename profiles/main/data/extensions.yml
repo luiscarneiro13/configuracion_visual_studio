@@ -3,7 +3,7 @@ builtin:
     - vscode.php-language-features
 disabled:
   - id: dbaeumer.vscode-eslint
-    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
@@ -101,6 +101,8 @@ enabled:
     uuid: 88e082b7-d289-4c59-bde4-4c61e0280428
   - id: ms-mssql.mssql
     uuid: 4bf45e86-a448-4531-8c01-ef33f4536306
+  - id: ms-mssql.sql-bindings-vscode
+    uuid: 48154c8d-77c4-4978-a3a2-807fc5266321
   - id: ms-mssql.sql-database-projects-vscode
     uuid: 4e9e1d12-64b6-4573-9203-f601d27de5a3
   - id: ms-python.autopep8
@@ -113,8 +115,6 @@ enabled:
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
   - id: ms-vscode-remote.remote-wsl
     uuid: f0c5397b-d357-4197-99f0-cb4202f22818
-  - id: ms-vscode.azure-account
-    uuid: 819a23e1-b6c6-41cf-9029-e653b537d996
   - id: msjsdiag.vscode-react-native
     uuid: b35cd5b4-18db-46f9-ba9e-06096c3b22d3
   - id: octref.vetur
@@ -134,7 +134,7 @@ enabled:
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: ritwickdey.LiveServer
-    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
+    uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
   - id: rodrigovallades.es7-react-js-snippets
     uuid: bc0b2fe3-a089-4015-a3dc-07452cb641b2
   - id: sdras.night-owl

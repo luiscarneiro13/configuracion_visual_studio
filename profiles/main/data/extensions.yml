@@ -41,6 +41,8 @@ enabled:
     uuid: c0fde3ce-39d4-4ea8-89ce-e2a202eeacaf
   - id: damianbal.vs-phpclassgen
     uuid: bcc22ae5-761d-4f3f-bd13-8eb77ed6a582
+  - id: docker.docker
+    uuid: aa98a064-0f79-4961-a4b7-78df16d547ee
   - id: donjayamanne.jquerysnippets
     uuid: 99c12a52-ff68-4e9d-a975-a67556fee2f5
   - id: dsznajder.es7-react-js-snippets
@@ -55,6 +57,8 @@ enabled:
     uuid: 19072f99-a410-4008-9c45-64e8693208e3
   - id: enkia.tokyo-night
     uuid: 1cac7443-911e-48b9-8341-49f3880c288a
+  - id: EQuimper.react-native-react-redux
+    uuid: 7f7e0e9c-b5ad-4e21-a425-f63bd56cb13f
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: file-icons.file-icons
@@ -147,6 +151,8 @@ enabled:
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
   - id: Wscats.qf
     uuid: a2bb8078-6609-4d07-a103-fee1f05791f2
+  - id: yzhang.markdown-all-in-one
+    uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zhuangtongfa.material-theme
     uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
   - id: zokugun.cron-tasks

@@ -161,4 +161,13 @@
         "D:/laragon/www/Proyectos/ventas/app",
         "D:/laragon/www/Proyectos/ventas/routes",
     ],
+    "syncSettings.hooks.preUpload": "",
+    "syncSettings.hooks.postUpload": "",
+    "mssql.connectionGroups": [
+        {
+            "name": "ROOT",
+            "id": "64A1920C-A297-429D-8B48-E0DC3934A739"
+        }
+    ],
+    "mssql.connections": [],
 }

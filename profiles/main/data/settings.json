@@ -170,4 +170,7 @@
         }
     ],
     "mssql.connections": [],
+    "javascript.suggest.autoImports": true,
+    "docker.extension.enableComposeLanguageServer": false,
+    "github.copilot.nextEditSuggestions.enabled": false,
 }

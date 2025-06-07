@@ -1,9 +1,7 @@
 builtin:
   disabled:
     - vscode.php-language-features
-disabled:
-  - id: dbaeumer.vscode-eslint
-    uuid: 00000000-0000-0000-0000-000000000000
+disabled: []
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
@@ -41,6 +39,8 @@ enabled:
     uuid: c0fde3ce-39d4-4ea8-89ce-e2a202eeacaf
   - id: damianbal.vs-phpclassgen
     uuid: bcc22ae5-761d-4f3f-bd13-8eb77ed6a582
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: docker.docker
     uuid: aa98a064-0f79-4961-a4b7-78df16d547ee
   - id: donjayamanne.jquerysnippets
@@ -97,6 +97,8 @@ enabled:
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: ms-azuretools.vscode-azureresourcegroups
     uuid: 260e9ed1-160d-4f7e-807c-2eb076ba3846
+  - id: ms-azuretools.vscode-containers
+    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: MS-CEINTL.vscode-language-pack-es
@@ -145,6 +147,8 @@ enabled:
     uuid: e58f546c-babc-455f-a265-ba40dbd140d4
   - id: shufo.vscode-blade-formatter
     uuid: 68a2e971-8ae5-493b-9c34-f4233fb14e40
+  - id: tobiaswaelde.material-colors
+    uuid: 1dfe4175-fd5a-4390-90f4-1bbaaaad4fa3
   - id: unused-code-finder.unused-code-finder
     uuid: d223c98a-4611-4a1c-a855-e88e12060e7a
   - id: usernamehw.errorlens

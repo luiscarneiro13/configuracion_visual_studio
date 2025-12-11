@@ -1,7 +1,9 @@
 builtin:
   disabled:
     - vscode.php-language-features
-disabled: []
+disabled:
+  - id: GitHub.copilot
+    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
@@ -29,6 +31,8 @@ enabled:
     uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
   - id: burkeholland.simple-react-snippets
     uuid: a84825e8-5f04-4988-b85a-4942e795bcbe
+  - id: chouzz.vscode-better-align
+    uuid: f5a6ecde-96ce-4fde-8744-ab88c7727069
   - id: christian-kohler.path-intellisense
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: codingyu.laravel-goto-view
@@ -69,16 +73,12 @@ enabled:
     uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
   - id: formulahendry.auto-rename-tag
     uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
-  - id: formulahendry.code-runner
-    uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: formulahendry.vscode-mysql
     uuid: d4598ff7-3c39-47f6-bf45-2df845252570
   - id: fractalbrew.backticks
     uuid: 529cfc85-4b7f-4cab-8be1-f451bc361fa6
   - id: genieai.chatgpt-vscode
     uuid: daf35080-6889-46fc-89bf-288dce8f8ed2
-  - id: GitHub.copilot
-    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
   - id: GitHub.copilot-chat
     uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
   - id: HeinThuYa.laravelcollective
@@ -87,14 +87,14 @@ enabled:
     uuid: 3620b114-6fe8-459b-8c68-99943147069b
   - id: IronGeek.vscode-env
     uuid: 2fd1d28f-fc2a-4582-8788-2f01febe43a6
-  - id: KevinRose.vsc-python-indent
-    uuid: f3cbfb84-b1e1-40ff-b70f-877253461260
   - id: mechatroner.rainbow-csv
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: mhutchie.git-graph
     uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
   - id: mikestead.dotenv
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
+  - id: mikoz.black-py
+    uuid: 52778d39-0ece-4ef8-9809-5402f75074a4
   - id: ms-azuretools.vscode-azureresourcegroups
     uuid: 260e9ed1-160d-4f7e-807c-2eb076ba3846
   - id: ms-azuretools.vscode-containers
@@ -111,8 +111,6 @@ enabled:
     uuid: 48154c8d-77c4-4978-a3a2-807fc5266321
   - id: ms-mssql.sql-database-projects-vscode
     uuid: 4e9e1d12-64b6-4573-9203-f601d27de5a3
-  - id: ms-python.autopep8
-    uuid: 5a21b0c3-89ca-46dd-8ada-658518fb94a5
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python

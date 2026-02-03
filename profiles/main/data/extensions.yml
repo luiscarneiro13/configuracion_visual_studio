@@ -11,6 +11,8 @@ enabled:
     uuid: 3f770365-3682-44ee-a63e-5ef1b16c74d2
   - id: ahmadawais.shades-of-purple
     uuid: 431aa1a8-74f4-43d5-a83b-f4960510da5f
+  - id: AikidoSecurity.aikido
+    uuid: 05701453-2bea-4413-8bf9-c51c081afa95
   - id: ajshortt.tokyo-hack
     uuid: 502f71da-d7e3-4cad-84e9-9cb39d8bc252
   - id: akamud.vscode-theme-onedark

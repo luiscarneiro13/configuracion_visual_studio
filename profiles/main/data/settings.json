@@ -209,5 +209,6 @@
         "=>"
     ],
     "gitlens.ai.model": "vscode",
-    "gitlens.ai.vscode.model": "copilot:gpt-4.1", // solo alinea cuando hay "=>"
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "aikido.coreUrl": "https://ide.aikido.dev", // solo alinea cuando hay "=>"
 }

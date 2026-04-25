@@ -264,7 +264,709 @@ GitHub.copilot-chat: "{\"VSCode.ABExp.FeatureData\":{\"$$$isWrappedExpValue\":t\
   github.copilot.sku\":\"free_limited_copilot\",\"exp.github.copilot.isFcv1\":f\
   alse,\"exp.github.copilot.isSn\":false,\"exp.github.copilot.isVscodeTeamMember\
   \":false,\"exp.github.copilot.organizationList\":[]}"
-google.geminicodeassist: '{"geminicodeassist.survey.useractivity":[1777137584217],"geminicodeassist.hasRunOnce":true,"geminicodeassist.lastOpenedVersion":"2.79.0","telemetry_setting_updated":true}'
+google.geminicodeassist: "{\"geminicodeassist.survey.useractivity\":[1777137584\
+  217],\"geminicodeassist.hasRunOnce\":true,\"geminicodeassist.lastOpenedVersion\
+  \":\"2.79.0\",\"telemetry_setting_updated\":true,\"newChatIsAgent\":false,\"g\
+  eminiCodeAssist.dismissedPrivacyNotice\":{\"carneiroluis2@gmail.com\":\"This
+  notice and our Privacy Policy - https://policies.google.com/privacy - describe
+  how Gemini Code Assist for individuals handles your data. Please read them
+  carefully.\\n\\nWhen you use Gemini Code Assist for individuals, Google
+  collects your prompts, related code, generated output, code edits, related
+  feature usage information, and your feedback to provide, improve, and develop
+  Google products and services and machine learning technologies.\\n\\nTo help
+  with quality and improve our products (such as generative machine-learning
+  models), human reviewers may read, annotate, and process the data collected
+  above. We take steps to protect your privacy as part of this process. This
+  includes disconnecting the data from your Google Account before reviewers see
+  or annotate it, and storing those disconnected copies for up to 18 months.
+  Please don't submit confidential information or any data you wouldn't want a
+  reviewer to see or Google to use to improve our products, services, and
+  machine-learning technologies.\\n\\nIf you don't want this data used to
+  improve Google's machine learning models, you can opt out
+  below.\"},\"geminicodeassist.onboardingTipDismissed\":true,\"geminiCodeAssist\
+  .chatThreads\":{\"carneiroluis2@gmail.com\":{\"8fbf87ee-40cb-11f1-ac92-00155d\
+  83beac\":{\"id\":\"8fbf87ee-40cb-11f1-ac92-00155d83beac\",\"title\":\"Hola
+  Gemini, te acuerdas de
+  mi?\",\"create_time\":\"2026-04-25T17:25:03.913Z\",\"update_time\":\"2026-04-\
+  25T17:26:04.801Z\",\"ideContextFileUris\":[],\"ideContextFolderUris\":[],\"ad\
+  ditionalContext\":[],\"selectedModelConfigId\":\"\",\"history\":[{\"entity\":\
+  \"USER\",\"markdownText\":\"Hola Gemini, te acuerdas de
+  mi?\",\"ideContext\":{\"currentFile\":{\"path\":\"d:\\\\laragon\\\\www\\\\clr\
+  api\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLSkillRepository.php\
+  \",\"includedReason\":\"CURRENTLY_OPEN\"},\"otherFiles\":[{\"path\":\"d:\\\\l\
+  aragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\N\
+  otificationsRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\
+  \\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\
+  \\\\ProgramGroupRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\
+  \"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territo\
+  rium\\\\PPLWorkExperienceRepository.php\",\"includedReason\":\"COLOCATED\"},{\
+  \"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\
+  \\Territorium\\\\MicroCredentialTypeRepository.php\",\"includedReason\":\"COL\
+  OCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Rep\
+  ositories\\\\Territorium\\\\PPLBoardCommitteeRepository.php\",\"includedReason\
+  \":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\se\
+  rver.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\
+  \\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\RelationshipRe\
+  questRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\lar\
+  agon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Rel\
+  ationshipRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\
+  \\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\
+  \\PushLogRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\
+  \\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\
+  \\ProgramGroupCourseRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\
+  \":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\PPLearnerRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\
+  \":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\PPLContactInfoRepository.php\",\"includedReason\":\"COLOCATED\"},{\
+  \"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\
+  \\Territorium\\\\PPLOrganizationAffiliationRepository.php\",\"includedReason\
+  \":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\
+  \\\\Repositories\\\\Territorium\\\\ProfileProgramRepository.php\",\"includedR\
+  eason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\LogsLifeRepository.php\",\"includedRe\
+  ason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\OewsRepository.php\",\"includedReason\
+  \":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\
+  \\\\Repositories\\\\Territorium\\\\PPLPresentationTalkRepository.php\",\"incl\
+  udedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\lar\
+  avel\\\\app\\\\Repositories\\\\Territorium\\\\ProgramPriceListRepository.php\
+  \",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clra\
+  pi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProgramAttachmentRepos\
+  itory.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\
+  \\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLAdditionalI\
+  nfoTypeRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\l\
+  aragon\\\\www\\\\clrapi\\\\laravel\\\\vendor\\\\facade\\\\ignition\\\\.php_cs\
+  .php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\\
+  clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProfileProgramPric\
+  eRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PriceLi\
+  stRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\LifeLti\
+  KeyRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\larag\
+  on\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Notif\
+  ication.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\\
+  www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProfileRepo\
+  sitory.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\w\
+  ww\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PathwayCipRe\
+  pository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Notificat\
+  ionHubRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\la\
+  ragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\No\
+  tificationRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\
+  \\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\
+  \\NotificationTypeRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\
+  \":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\PPLAdditionalInfoRepository.php\",\"includedReason\":\"COLOCATED\"\
+  },{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\
+  \\\\Territorium\\\\PPLAwardHonorRepository.php\",\"includedReason\":\"COLOCAT\
+  ED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Reposit\
+  ories\\\\Territorium\\\\RelationshipSentRepository.php\",\"includedReason\":\
+  \"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\RelationshipResponseRepository.php\",\"inclu\
+  dedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\lara\
+  vel\\\\app\\\\Repositories\\\\Territorium\\\\ProgramRepository.php\",\"includ\
+  edReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\larav\
+  el\\\\app\\\\Repositories\\\\Territorium\\\\PermissionTypeRepository.php\",\"\
+  includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\
+  \\laravel\\\\app\\\\Repositories\\\\Territorium\\\\NotificationEventRepositor\
+  y.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLCredentialRep\
+  ository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\\
+  www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLPublicat\
+  ionRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\larag\
+  on\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Progr\
+  amAchievementRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\
+  \\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\
+  \\\\PathwayTpProgramsRepository.php\",\"includedReason\":\"COLOCATED\"},{\"pa\
+  th\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Te\
+  rritorium\\\\NotificationEventTypeRepository.php\",\"includedReason\":\"COLOC\
+  ATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\async\\\\dist\\\\async.min.js\",\"includedReason\":\
+  \"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\io\\\\node_modules\\\\async\\\\dist\\\\asyn\
+  c.min.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\\
+  www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\js-api\\\\node_modules\\\\async\\\\dist\\\\\
+  async.min.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\mi.js\",\"includedReason\
+  \":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard
+  -
+  Server\\\\node_modules\\\\dayjs\\\\locale\\\\mi.js\",\"includedReason\":\"REL\
+  ATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\te.js\",\"includedReason\
+  \":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard
+  -
+  Server\\\\node_modules\\\\dayjs\\\\locale\\\\te.js\",\"includedReason\":\"REL\
+  ATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\tet.js\",\"includedReason\
+  \":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard
+  -
+  Server\\\\node_modules\\\\dayjs\\\\locale\\\\tet.js\",\"includedReason\":\"RE\
+  LATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\gl.js\",\"includedReason\
+  \":\"RELATED_FILE\"}],\"chatSectionId\":\"0\"},\"chatSectionId\":\"0\"},{\"tr\
+  aceId\":\"fe7394804ff6b747\",\"entity\":\"SYSTEM\",\"markdownText\":\"> Gemini
+  2.5 generated this response due to high traffic on Gemini 3\\n\\nHola, soy
+  Gemini Code Assist. Como modelo de lenguaje, no tengo memoria de
+  conversaciones anteriores ni de interacciones pasadas. Cada vez que
+  interactúas conmigo, es como una nueva conversación.\\n\\n¿Hay algo en lo que
+  pueda ayudarte
+  hoy?\",\"agentProcessingDetails\":{},\"ideContext\":{\"currentFile\":{\"path\
+  \":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\PPLSkillRepository.php\",\"includedReason\":\"CURRENTLY_OPEN\"},\"\
+  otherFiles\":[{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\NotificationsRepository.php\",\"includedReas\
+  on\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\\
+  app\\\\Repositories\\\\Territorium\\\\ProgramGroupRepository.php\",\"included\
+  Reason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\PPLWorkExperienceRepository.php\",\
+  \"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\
+  \\laravel\\\\app\\\\Repositories\\\\Territorium\\\\MicroCredentialTypeReposit\
+  ory.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLBoardCommitte\
+  eRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\laravel\\\\server.php\",\"includedReason\":\"COLOCATED\"\
+  },{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\
+  \\\\Territorium\\\\RelationshipRequestRepository.php\",\"includedReason\":\"C\
+  OLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\R\
+  epositories\\\\Territorium\\\\RelationshipRepository.php\",\"includedReason\":\
+  \"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\PushLogRepository.php\",\"includedReason\":\
+  \"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\ProgramGroupCourseRepository.php\",\"include\
+  dReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\PPLearnerRepository.php\",\"include\
+  dReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\PPLContactInfoRepository.php\",\"in\
+  cludedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\l\
+  aravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLOrganizationAffiliationRep\
+  ository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\\
+  www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProfileProg\
+  ramRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\larag\
+  on\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\LogsL\
+  ifeRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\larag\
+  on\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\OewsR\
+  epository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLPresen\
+  tationTalkRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\
+  \\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\
+  \\ProgramPriceListRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\
+  \":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\ProgramAttachmentRepository.php\",\"includedReason\":\"COLOCATED\"\
+  },{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\
+  \\\\Territorium\\\\PPLAdditionalInfoTypeRepository.php\",\"includedReason\":\
+  \"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\vendor\
+  \\\\facade\\\\ignition\\\\.php_cs.php\",\"includedReason\":\"COLOCATED\"},{\"\
+  path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\\
+  Territorium\\\\ProfileProgramPriceRepository.php\",\"includedReason\":\"COLOC\
+  ATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repos\
+  itories\\\\Territorium\\\\PriceListRepository.php\",\"includedReason\":\"COLO\
+  CATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repo\
+  sitories\\\\Territorium\\\\LifeLtiKeyRepository.php\",\"includedReason\":\"CO\
+  LOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Re\
+  positories\\\\Territorium\\\\Notification.php\",\"includedReason\":\"COLOCATED\
+  \"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositor\
+  ies\\\\Territorium\\\\ProfileRepository.php\",\"includedReason\":\"COLOCATED\
+  \"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositor\
+  ies\\\\Territorium\\\\PathwayCipRepository.php\",\"includedReason\":\"COLOCAT\
+  ED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Reposit\
+  ories\\\\Territorium\\\\NotificationHubRepository.php\",\"includedReason\":\"\
+  COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\\
+  Repositories\\\\Territorium\\\\NotificationRepository.php\",\"includedReason\
+  \":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\
+  \\\\Repositories\\\\Territorium\\\\NotificationTypeRepository.php\",\"include\
+  dReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\PPLAdditionalInfoRepository.php\",\
+  \"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\
+  \\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLAwardHonorRepository.php\
+  \",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clra\
+  pi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\RelationshipSentReposi\
+  tory.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\
+  \\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\RelationshipRe\
+  sponseRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\la\
+  ragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Pr\
+  ogramRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\lar\
+  agon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Per\
+  missionTypeRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\
+  \\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\
+  \\NotificationEventRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\
+  \":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\PPLCredentialRepository.php\",\"includedReason\":\"COLOCATED\"},{\
+  \"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\
+  \\Territorium\\\\PPLPublicationRepository.php\",\"includedReason\":\"COLOCATED\
+  \"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositor\
+  ies\\\\Territorium\\\\ProgramAchievementRepository.php\",\"includedReason\":\
+  \"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\PathwayTpProgramsRepository.php\",\"included\
+  Reason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\NotificationEventTypeRepository.php\
+  \",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clra\
+  pi\\\\blackboard -
+  Server\\\\node_modules\\\\async\\\\dist\\\\async.min.js\",\"includedReason\":\
+  \"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\io\\\\node_modules\\\\async\\\\dist\\\\asyn\
+  c.min.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\\
+  www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\js-api\\\\node_modules\\\\async\\\\dist\\\\\
+  async.min.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\mi.js\",\"includedReason\
+  \":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard
+  -
+  Server\\\\node_modules\\\\dayjs\\\\locale\\\\mi.js\",\"includedReason\":\"REL\
+  ATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\te.js\",\"includedReason\
+  \":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard
+  -
+  Server\\\\node_modules\\\\dayjs\\\\locale\\\\te.js\",\"includedReason\":\"REL\
+  ATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\tet.js\",\"includedReason\
+  \":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard
+  -
+  Server\\\\node_modules\\\\dayjs\\\\locale\\\\tet.js\",\"includedReason\":\"RE\
+  LATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\gl.js\",\"includedReason\
+  \":\"RELATED_FILE\"}],\"chatSectionId\":\"0\"},\"fileUsage\":{\"includedFiles\
+  \":[\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Ter\
+  ritorium\\\\PPLSkillRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\lara\
+  vel\\\\app\\\\Repositories\\\\Territorium\\\\NotificationsRepository.php\",\"\
+  d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territori\
+  um\\\\ProgramGroupRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\PPLWorkExperienceRepository.php\",\
+  \"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territo\
+  rium\\\\MicroCredentialTypeRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\
+  \\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLBoardCommitteeRepositor\
+  y.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\server.php\",\"d:\\\\l\
+  aragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\R\
+  elationshipRequestRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\RelationshipRepository.php\",\"d:\\\
+  \\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\
+  \\PushLogRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\ProgramGroupCourseRepository.php\",\"d:\\\\l\
+  aragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\P\
+  PLearnerRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\PPLContactInfoRepository.php\",\"d:\\\\larag\
+  on\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLOr\
+  ganizationAffiliationRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\lar\
+  avel\\\\app\\\\Repositories\\\\Territorium\\\\ProfileProgramRepository.php\",\
+  \"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territo\
+  rium\\\\LogsLifeRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\OewsRepository.php\",\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLPresen\
+  tationTalkRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\
+  \\\\Repositories\\\\Territorium\\\\ProgramPriceListRepository.php\",\"d:\\\\l\
+  aragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\P\
+  rogramAttachmentRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\PPLAdditionalInfoTypeRepository.php\",\
+  \"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\vendor\\\\facade\\\\ignition\\\
+  \\.php_cs.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Reposit\
+  ories\\\\Territorium\\\\ProfileProgramPriceRepository.php\",\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PriceList\
+  Repository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Reposi\
+  tories\\\\Territorium\\\\LifeLtiKeyRepository.php\",\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Notification.php\
+  \",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\ProfileRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\PathwayCipRepository.php\",\"d:\\\\\
+  laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\\
+  NotificationHubRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\NotificationRepository.php\",\"d:\\\\\
+  laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\\
+  NotificationTypeRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\PPLAdditionalInfoRepository.php\",\"d:\
+  \\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\
+  \\\\PPLAwardHonorRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\RelationshipSentRepository.php\",\"\
+  d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territori\
+  um\\\\RelationshipResponseRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\
+  \\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProgramRepository.php\",\"\
+  d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territori\
+  um\\\\PermissionTypeRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\lara\
+  vel\\\\app\\\\Repositories\\\\Territorium\\\\NotificationEventRepository.php\
+  \",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\PPLCredentialRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\\
+  laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLPublicationRepository.php\
+  \",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\ProgramAchievementRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\
+  \\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PathwayTpProgramsReposit\
+  ory.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\
+  \\Territorium\\\\NotificationEventTypeRepository.php\",\"d:\\\\laragon\\\\www\
+  \\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\async\\\\dist\\\\async.min.js\",\"d:\\\\laragon\\\\\
+  www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\io\\\\node_modules\\\\async\\\\dist\\\\asyn\
+  c.min.js\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\js-api\\\\node_modules\\\\async\\\\dist\\\\\
+  async.min.js\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\mi.js\",\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\locale\\\\mi.js\",\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\te.js\",\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\locale\\\\te.js\",\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\tet.js\",\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\locale\\\\tet.js\",\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\dayjs\\\\esm\\\\locale\\\\gl.js\"]},\"openFileUri\":\
+  \"file:///d%3A/laragon/www/clrapi/laravel/app/Repositories/Territorium/PPLSki\
+  llRepository.php\",\"chatSectionId\":\"0\",\"modelDisplayName\":\"2.5
+  Flash\",\"modelID\":\"chat-gemini-2-5-flash-free-tier\"},{\"entity\":\"USER\",\
+  \"markdownText\":\"Tienes acceso a ver mi codigo
+  fuente?\",\"ideContext\":{\"currentFile\":{\"path\":\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLSkillReposito\
+  ry.php\",\"includedReason\":\"CURRENTLY_OPEN\"},\"otherFiles\":[{\"path\":\"d:\
+  \\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\
+  \\\\RelationshipResponseRepository.php\",\"includedReason\":\"COLOCATED\"},{\
+  \"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\
+  \\Territorium\\\\RelationshipRepository.php\",\"includedReason\":\"COLOCATED\
+  \"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositor\
+  ies\\\\Territorium\\\\MicroCredentialTypeRepository.php\",\"includedReason\":\
+  \"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\ProgramGroupRepository.php\",\"includedReason\
+  \":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\
+  \\\\Repositories\\\\Territorium\\\\NotificationTypeRepository.php\",\"include\
+  dReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\ProgramAchievementRepository.php\",\
+  \"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\
+  \\laravel\\\\app\\\\Repositories\\\\Territorium\\\\LogsLifeRepository.php\",\
+  \"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\
+  \\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLearnerRepository.php\",\
+  \"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\
+  \\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLAdditionalInfoRepositor\
+  y.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProfileRepositor\
+  y.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PriceListReposit\
+  ory.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProgramAttachmen\
+  tRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLOrga\
+  nizationAffiliationRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\
+  \":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\ProgramGroupCourseRepository.php\",\"includedReason\":\"COLOCATED\
+  \"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositor\
+  ies\\\\Territorium\\\\PPLWorkExperienceRepository.php\",\"includedReason\":\"\
+  COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\\
+  Repositories\\\\Territorium\\\\PathwayTpProgramsRepository.php\",\"includedRe\
+  ason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\PermissionTypeRepository.php\",\"incl\
+  udedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\lar\
+  avel\\\\app\\\\Repositories\\\\Territorium\\\\RelationshipSentRepository.php\
+  \",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clra\
+  pi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\NotificationRepository\
+  .php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\\
+  clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PathwayCipReposito\
+  ry.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Notification.php\
+  \",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clra\
+  pi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProfileProgramReposito\
+  ry.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLBoardCommitte\
+  eRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLAddi\
+  tionalInfoTypeRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"\
+  d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territori\
+  um\\\\PPLPresentationTalkRepository.php\",\"includedReason\":\"COLOCATED\"},{\
+  \"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\
+  \\Territorium\\\\PPLContactInfoRepository.php\",\"includedReason\":\"COLOCATED\
+  \"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositor\
+  ies\\\\Territorium\\\\RelationshipRequestRepository.php\",\"includedReason\":\
+  \"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\serve\
+  r.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\NotificationEven\
+  tTypeRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\lar\
+  agon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Not\
+  ificationEventRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"\
+  d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territori\
+  um\\\\NotificationHubRepository.php\",\"includedReason\":\"COLOCATED\"},{\"pa\
+  th\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Te\
+  rritorium\\\\LifeLtiKeyRepository.php\",\"includedReason\":\"COLOCATED\"},{\"\
+  path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\\
+  Territorium\\\\NotificationsRepository.php\",\"includedReason\":\"COLOCATED\"\
+  },{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\
+  \\\\Territorium\\\\OewsRepository.php\",\"includedReason\":\"COLOCATED\"},{\"\
+  path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\\
+  Territorium\\\\PPLCredentialRepository.php\",\"includedReason\":\"COLOCATED\"\
+  },{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\
+  \\\\Territorium\\\\ProgramRepository.php\",\"includedReason\":\"COLOCATED\"},{\
+  \"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\vendor\\\\facade\\\\i\
+  gnition\\\\.php_cs.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\\
+  laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\\
+  ProgramPriceListRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\
+  \"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territo\
+  rium\\\\ProfileProgramPriceRepository.php\",\"includedReason\":\"COLOCATED\"}\
+  ,{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\
+  \\\\Territorium\\\\PPLAwardHonorRepository.php\",\"includedReason\":\"COLOCAT\
+  ED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Reposit\
+  ories\\\\Territorium\\\\PushLogRepository.php\",\"includedReason\":\"COLOCATED\
+  \"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositor\
+  ies\\\\Territorium\\\\PPLPublicationRepository.php\",\"includedReason\":\"COL\
+  OCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\classes\\\
+  \\semver.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\functions\
+  \\\\compare.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\larag\
+  on\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\functions\
+  \\\\compare-build.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\
+  \\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\ranges\\\
+  \\min-version.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\lar\
+  agon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\classes\\\
+  \\comparator.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\lara\
+  gon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\moment\\\\min\\\\moment.min.js\",\"includedReason\":\
+  \"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\async\\\\dist\\\\async.min.js\",\"includedReason\":\
+  \"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\moment\\\\src\\\\locale\\\\tet.js\",\"includedReason\
+  \":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard
+  -
+  Server\\\\node_modules\\\\moment\\\\dist\\\\locale\\\\tet.js\",\"includedReas\
+  on\":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboa\
+  rd -
+  Server\\\\node_modules\\\\moment\\\\locale\\\\tet.js\",\"includedReason\":\"R\
+  ELATED_FILE\"}],\"chatSectionId\":\"1\"},\"chatSectionId\":\"1\"},{\"traceId\
+  \":\"54de51ab06852fa9\",\"entity\":\"SYSTEM\",\"markdownText\":\"Sí, tengo
+  acceso a los archivos de código fuente que has proporcionado en el contexto de
+  nuestra conversación.\\n\\nEspecíficamente, puedo ver una serie de
+  repositorios de una aplicación **Laravel** ubicada en
+  `d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\`,
+  incluyendo:\\n\\n*   **Repositorios de Perfiles y Usuarios:**
+  `ProfileRepository.php`, `UserRepositoryInterface` (referenciado),
+  `PPLearnerRepository.php`.\\n*   **Gestión de Skills y Credenciales:**
+  `PPLSkillRepository.php`, `PPLCredentialRepository.php`,
+  `PPLWorkExperienceRepository.php`.\\n*   **Notificaciones y Logs:**
+  `NotificationRepository.php`, `LogsLifeRepository.php`,
+  `PushLogRepository.php`.\\n*   **Programas y Rutas (Pathways):**
+  `ProgramRepository.php`, `PathwayTpProgramsRepository.php`,
+  `PathwayCipRepository.php`.\\n*   **Otros:** Archivos de configuración de
+  servidores y librerías en `node_modules`.\\n\\nComo tu asistente de ingeniería
+  de software, puedo analizar este código para:\\n1.  **Identificar posibles
+  bugs** o errores de lógica (como los que noté en algunos métodos `update` que
+  no devuelven valores o ciclos `foreach` que sobrescriben
+  variables).\\n2.  **Sugerir mejoras de rendimiento**, como la optimización de
+  consultas Eloquent/Query Builder.\\n3.  **Refactorizar** para mejorar la
+  legibilidad y mantenibilidad siguiendo principios SOLID.\\n4.  **Explicar el
+  flujo** de datos entre los repositorios y modelos.\\n\\n¿Te gustaría que
+  revisara algún archivo en específico para buscar oportunidades de mejora o
+  tienes alguna duda sobre la lógica de uno de estos
+  componentes?\\n\\n<!--\\n[PROMPT_SUGGESTION]¿Puedes revisar el método
+  getUserSkillsProfileWithSelected en PPLSkillRepository para optimizar las
+  consultas a la base de datos?[/PROMPT_SUGGESTION]\\n[PROMPT_SUGGESTION]Analiza
+  el ProfileRepository y dime si cumple con las mejores prácticas de
+  Laravel.[/PROMPT_SUGGESTION]\\n-->\",\"agentProcessingDetails\":{},\"ideConte\
+  xt\":{\"currentFile\":{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\PPLSkillRepository.php\",\"includedRe\
+  ason\":\"CURRENTLY_OPEN\"},\"otherFiles\":[{\"path\":\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\RelationshipResp\
+  onseRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\lara\
+  gon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Rela\
+  tionshipRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\\
+  laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\\
+  MicroCredentialTypeRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\
+  \":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\ProgramGroupRepository.php\",\"includedReason\":\"COLOCATED\"},{\"\
+  path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\\
+  Territorium\\\\NotificationTypeRepository.php\",\"includedReason\":\"COLOCATED\
+  \"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositor\
+  ies\\\\Territorium\\\\ProgramAchievementRepository.php\",\"includedReason\":\
+  \"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\LogsLifeRepository.php\",\"includedReason\":\
+  \"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\PPLearnerRepository.php\",\"includedReason\":\
+  \"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\PPLAdditionalInfoRepository.php\",\"included\
+  Reason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\ProfileRepository.php\",\"includedR\
+  eason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\PriceListRepository.php\",\"includedR\
+  eason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\ProgramAttachmentRepository.php\",\"i\
+  ncludedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\\
+  laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLOrganizationAffiliationRe\
+  pository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProgramGr\
+  oupCourseRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\
+  \\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\
+  \\PPLWorkExperienceRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\
+  \":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\PathwayTpProgramsRepository.php\",\"includedReason\":\"COLOCATED\"\
+  },{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\
+  \\\\Territorium\\\\PermissionTypeRepository.php\",\"includedReason\":\"COLOCA\
+  TED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Reposi\
+  tories\\\\Territorium\\\\RelationshipSentRepository.php\",\"includedReason\":\
+  \"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\NotificationRepository.php\",\"includedReason\
+  \":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\
+  \\\\Repositories\\\\Territorium\\\\PathwayCipRepository.php\",\"includedReason\
+  \":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\
+  \\\\Repositories\\\\Territorium\\\\Notification.php\",\"includedReason\":\"CO\
+  LOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Re\
+  positories\\\\Territorium\\\\ProfileProgramRepository.php\",\"includedReason\
+  \":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\
+  \\\\Repositories\\\\Territorium\\\\PPLBoardCommitteeRepository.php\",\"includ\
+  edReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\larav\
+  el\\\\app\\\\Repositories\\\\Territorium\\\\PPLAdditionalInfoTypeRepository.p\
+  hp\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\cl\
+  rapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLPresentationTalkR\
+  epository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLContac\
+  tInfoRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\lar\
+  agon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Rel\
+  ationshipRequestRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\
+  \"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\server.php\",\"includedReason\
+  \":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\
+  \\\\Repositories\\\\Territorium\\\\NotificationEventTypeRepository.php\",\"in\
+  cludedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\l\
+  aravel\\\\app\\\\Repositories\\\\Territorium\\\\NotificationEventRepository.p\
+  hp\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\cl\
+  rapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\NotificationHubRepos\
+  itory.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\
+  \\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\LifeLtiKeyRepo\
+  sitory.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\w\
+  ww\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Notification\
+  sRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\OewsRep\
+  ository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\\
+  www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLCredenti\
+  alRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Program\
+  Repository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\laravel\\\\vendor\\\\facade\\\\ignition\\\\.php_cs.php\",\
+  \"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\
+  \\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProgramPriceListRepository\
+  .php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\\\\www\\\\\
+  clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProfileProgramPric\
+  eRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLAwar\
+  dHonorRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\la\
+  ragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Pu\
+  shLogRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\\lar\
+  agon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPL\
+  PublicationRepository.php\",\"includedReason\":\"COLOCATED\"},{\"path\":\"d:\\\
+  \\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\classes\\\
+  \\semver.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\functions\
+  \\\\compare.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\larag\
+  on\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\functions\
+  \\\\compare-build.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\
+  \\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\ranges\\\
+  \\min-version.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\lar\
+  agon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\classes\\\
+  \\comparator.js\",\"includedReason\":\"RELATED_FILE\"},{\"path\":\"d:\\\\lara\
+  gon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\moment\\\\min\\\\moment.min.js\",\"includedReason\":\
+  \"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\async\\\\dist\\\\async.min.js\",\"includedReason\":\
+  \"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\moment\\\\src\\\\locale\\\\tet.js\",\"includedReason\
+  \":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard
+  -
+  Server\\\\node_modules\\\\moment\\\\dist\\\\locale\\\\tet.js\",\"includedReas\
+  on\":\"RELATED_FILE\"},{\"path\":\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboa\
+  rd -
+  Server\\\\node_modules\\\\moment\\\\locale\\\\tet.js\",\"includedReason\":\"R\
+  ELATED_FILE\"}],\"chatSectionId\":\"1\"},\"fileUsage\":{\"includedFiles\":[\"\
+  d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territori\
+  um\\\\PPLSkillRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\RelationshipResponseRepository.php\",\
+  \"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territo\
+  rium\\\\RelationshipRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\lara\
+  vel\\\\app\\\\Repositories\\\\Territorium\\\\MicroCredentialTypeRepository.php\
+  \",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\ProgramGroupRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\l\
+  aravel\\\\app\\\\Repositories\\\\Territorium\\\\NotificationTypeRepository.php\
+  \",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\ProgramAchievementRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\
+  \\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\LogsLifeRepository.php\",\
+  \"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territo\
+  rium\\\\PPLearnerRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\
+  \\\\app\\\\Repositories\\\\Territorium\\\\PPLAdditionalInfoRepository.php\",\
+  \"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territo\
+  rium\\\\ProfileRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\PriceListRepository.php\",\"d:\\\\lar\
+  agon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Pro\
+  gramAttachmentRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\
+  \\app\\\\Repositories\\\\Territorium\\\\PPLOrganizationAffiliationRepository.\
+  php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\T\
+  erritorium\\\\ProgramGroupCourseRepository.php\",\"d:\\\\laragon\\\\www\\\\cl\
+  rapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLWorkExperienceRep\
+  ository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositor\
+  ies\\\\Territorium\\\\PathwayTpProgramsRepository.php\",\"d:\\\\laragon\\\\www\
+  \\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PermissionType\
+  Repository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Reposi\
+  tories\\\\Territorium\\\\RelationshipSentRepository.php\",\"d:\\\\laragon\\\\\
+  www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Notificatio\
+  nRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repos\
+  itories\\\\Territorium\\\\PathwayCipRepository.php\",\"d:\\\\laragon\\\\www\\\
+  \\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Notification.php\
+  \",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Terr\
+  itorium\\\\ProfileProgramRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\
+  \\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLBoardCommitteeRepositor\
+  y.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\
+  \\Territorium\\\\PPLAdditionalInfoTypeRepository.php\",\"d:\\\\laragon\\\\www\
+  \\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PPLPresentatio\
+  nTalkRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\R\
+  epositories\\\\Territorium\\\\PPLContactInfoRepository.php\",\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\Relations\
+  hipRequestRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\ser\
+  ver.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\
+  \\Territorium\\\\NotificationEventTypeRepository.php\",\"d:\\\\laragon\\\\www\
+  \\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\NotificationEv\
+  entRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Rep\
+  ositories\\\\Territorium\\\\NotificationHubRepository.php\",\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\LifeLtiKe\
+  yRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repos\
+  itories\\\\Territorium\\\\NotificationsRepository.php\",\"d:\\\\laragon\\\\www\
+  \\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\OewsRepository\
+  .php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\\
+  Territorium\\\\PPLCredentialRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\
+  \\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProgramRepository.php\",\
+  \"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\vendor\\\\facade\\\\ignition\\\
+  \\.php_cs.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Reposit\
+  ories\\\\Territorium\\\\ProgramPriceListRepository.php\",\"d:\\\\laragon\\\\w\
+  ww\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\ProfileProgr\
+  amPriceRepository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\
+  \\Repositories\\\\Territorium\\\\PPLAwardHonorRepository.php\",\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\laravel\\\\app\\\\Repositories\\\\Territorium\\\\PushLog\
+  Repository.php\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\laravel\\\\app\\\\Reposi\
+  tories\\\\Territorium\\\\PPLPublicationRepository.php\",\"d:\\\\laragon\\\\www\
+  \\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\classes\\\
+  \\semver.js\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\functions\
+  \\\\compare.js\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\functions\
+  \\\\compare-build.js\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\ranges\\\
+  \\min-version.js\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\@pm2\\\\agent\\\\node_modules\\\\semver\\\\classes\\\
+  \\comparator.js\",\"d:\\\\laragon\\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\moment\\\\min\\\\moment.min.js\",\"d:\\\\laragon\\\
+  \\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\async\\\\dist\\\\async.min.js\",\"d:\\\\laragon\\\\\
+  www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\moment\\\\src\\\\locale\\\\tet.js\",\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\moment\\\\dist\\\\locale\\\\tet.js\",\"d:\\\\laragon\
+  \\\\www\\\\clrapi\\\\blackboard -
+  Server\\\\node_modules\\\\moment\\\\locale\\\\tet.js\"]},\"openFileUri\":\"fi\
+  le:///d%3A/laragon/www/clrapi/laravel/app/Repositories/Territorium/PPLSkillRe\
+  pository.php\",\"chatSectionId\":\"1\",\"modelDisplayName\":\"3 Flash
+  Preview\",\"modelID\":\"chat-gemini-3-0-flash-preview-free-tier\"}],\"version\
+  \":\"2.0\"}}}}"
 mhutchie.git-graph: '{"lastKnownGitPath":"git"}'
 ms-azuretools.vscode-azureresourcegroups: '{"VSCode.ABExp.FeatureData":{"features":["config.chat.tools.terminal.outputLocation","config.github.copilot.nextEditSuggestions.enabled","config.python.locator","config.python.useEnvironmentsExtensioncf","copilotchat.disableReplaceStringHealing","copilotchat.hiddenModelBEditTool","copilotchat.ruffDiagnosticsCookbook","copilot_ci","cveremediatoragentenabled","ideenablecopilotsemanticsearch","livesharecontinuousaa","mindaroBinariesVersion","new_test","test-ai-12cf","test_t","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;nativeloc1:31344060;copilot_t_ci:31333650;pythonrdcb7:31342333;6518g693:31463988;aj953862:31281341;6abeh943:31336334;envsdeactivate2:31464701;3efgi100_wstrepl:31403338;ec5jj548:31422691;cp_cls_t_966_ss:31454198;cp_cls_t_1081:31454832;test_treatment2:31471001;chat:31457767;","configs":[{"Id":"vscode","Parameters":{"config.chat.tools.terminal.outputLocation":"chat","config.github.copilot.nextEditSuggestions.enabled":true,"config.python.locator":"native","config.python.useEnvironmentsExtension":false,"copilotchat.disableReplaceStringHealing":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilotchat.ruffDiagnosticsCookbook":true,"copilot_ci":true,"cveremediatoragentenabled":true,"ideenablecopilotsemanticsearch":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","new_test":true,"test-ai-12":false,"test_t":"cindytest","workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
 ms-azuretools.vscode-containers: '{"vscode-containers.activity.overallnoedit":{"lastSession":1777137772961,"currentMonthSessions":8,"totalSessions":58},"containers.settings.migrated":true,"vscode-containers.activity.overall":{"lastSession":1777137772977,"currentMonthSessions":8,"totalSessions":56},"VSCode.ABExp.FeatureData":{"features":["config.chat.subagentTool.customAgents","config.github.copilot.nextEditSuggestions.enabled","config.inlineChat.renderMode","copilotappmodcontextmenuenabledcf","copilotchat.disableReplaceStringHealing","copilotchat.hiddenModelBEditTool","copilot_ci","cveremediatoragentenabled","github.copilot.chat.agentDebugLog.enabled","github.copilot.chat.agentDebugLog.fileLogging.enabled","ideenablecopilotsemanticsearch","livesharecontinuousaa","mindaroBinariesVersion","new_test","test-ai-12cf","test_t","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;copilot_t_ci:31333650;6518g693:31463988;aj953862:31281341;6abeh943:31336334;3efgi100_wstrepl:31403338;ec5jj548:31422691;cp_cls_t_966_ss:31454198;cp_cls_t_1081:31454832;test_treatment2:31471001;ei9d7968:31496641;ghj88844:31499326;cp_cls_c_1082:31491634;logging_enabled_new:31498466;","configs":[{"Id":"vscode","Parameters":{"config.chat.subagentTool.customAgents":true,"config.github.copilot.nextEditSuggestions.enabled":true,"config.inlineChat.renderMode":"zone","copilotappmodcontextmenuenabled":false,"copilotchat.disableReplaceStringHealing":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"cveremediatoragentenabled":true,"github.copilot.chat.agentDebugLog.enabled":true,"github.copilot.chat.agentDebugLog.fileLogging.enabled":true,"ideenablecopilotsemanticsearch":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","new_test":true,"test-ai-12":false,"test_t":"cindytest","workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"vscode-containers.container.newContainerUser":false}'
@@ -280,7 +982,7 @@ ms-python.python: '{"VSCode.ABExp.FeatureData":{"features":["config.chat.subagen
   3.13.5 64-bit (Microsoft
   Store)"}],"autoSelectionInterpretersQueriedOnce":true,"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key":["D:\\LARAGON\\WWW\\CLRAPI","D:\\APPS\\WEB\\DIGITAL-CREDENTIALS-PUBLIC-VALIDATOR","D:\\APPS\\WEB\\VC","D:\\APPS\\WEB\\OPENBADGES-VALIDATOR-CORE","D:\\APPS\\WEB\\FASTAPI-LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA","D:\\APPS\\WEB\\LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA","D:\\APPS\\APPS\\WEB\\LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA","D:\\APPS\\APPS\\PERSONAL\\DESCARGARYOUTUBE"],"isRemoteGlobalSettingCopiedKey":true,"SHELL_INTEGRATION_WORKING_KEY_powershell":true,"pylanceDefaultPromptMemento":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\APPS\\WEB\\LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA":true,"SHELL_INTEGRATION_WORKING_KEY_bash":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\WEB\\LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\WEB\\FASTAPI-LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA":true,"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\LARAGON\\WWW\\CLRAPI","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_D:\\LARAGON\\WWW\\CLRAPI"},{"key":"DONT_SHOW_NATIVE_FINDER_SPAWN_ERROR_AGAIN","defaultValue":false},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\WEB\\DIGITAL-CREDENTIALS-PUBLIC-VALIDATOR","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_D:\\APPS\\WEB\\DIGITAL-CREDENTIALS-PUBLIC-VALIDATOR"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\WEB\\VC","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_D:\\APPS\\WEB\\VC"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\WEB\\OPENBADGES-VALIDATOR-CORE","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_D:\\APPS\\WEB\\OPENBADGES-VALIDATOR-CORE"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\WEB\\FASTAPI-LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_D:\\APPS\\WEB\\FASTAPI-LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\WEB\\LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA","defaultValue":false},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_D:\\APPS\\WEB\\LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\APPS\\WEB\\LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA","defaultValue":false},{"key":"SHELL_INTEGRATION_WORKING_KEY_bash"},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_D:\\APPS\\APPS\\WEB\\LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA"},{"key":"isRemoteGlobalSettingCopiedKey","defaultValue":false},{"key":"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key","defaultValue":[]},{"key":"autoSelectionInterpretersQueriedOnce"},{"key":"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\APPS\\PERSONAL\\DESCARGARYOUTUBE","defaultValue":false},{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]},{"key":"PythonTensorBoardWebviewPreferredViewGroup","defaultValue":-1},{"key":"SHELL_INTEGRATION_WORKING_KEY_powershell"},{"key":"WORKSPACE_FOLDER_INTERPRETER_PATH_D:\\APPS\\APPS\\PERSONAL\\DESCARGARYOUTUBE"},{"key":"preferredGlobalPyInterpreter"},{"key":"PYTHON_ENV_INFO_CACHEv2","defaultValue":[]},{"key":"VSCode.ABExp.FeatureData","defaultValue":{"features":[]}}],"WORKSPACE_FOLDER_INTERPRETER_PATH_D:\\APPS\\WEB\\FASTAPI-LIFEJOURNEY-DIGITAL-CREDENTIALS-METADATA":"C:\\Users\\luisc\\AppData\\Local\\Programs\\Python\\Python311\\python.exe","PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\WEB\\OPENBADGES-VALIDATOR-CORE":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\WEB\\VC":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\APPS\\WEB\\DIGITAL-CREDENTIALS-PUBLIC-VALIDATOR":true,"PYTHON_WAS_DISCOVERY_TRIGGERED_D:\\LARAGON\\WWW\\CLRAPI":true}'
 ms-python.vscode-pylance: '{"VSCode.ABExp.FeatureData":{"features":["config.chat.subagentTool.customAgents","config.github.copilot.nextEditSuggestions.enabled","config.inlineChat.renderMode","config.python.locator","config.python.useEnvironmentsExtensioncf","copilotappmodcontextmenuenabledcf","copilotchat.disableReplaceStringHealing","copilotchat.hiddenModelBEditTool","copilotchat.ruffDiagnosticsCookbook","copilot_ci","cveremediatoragentenabled","github.copilot.chat.agentDebugLog.enabled","github.copilot.chat.agentDebugLog.fileLogging.enabled","ideenablecopilotsemanticsearch","livesharecontinuousaa","mindaroBinariesVersion","new_test","test-ai-12cf","test_t","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;nativeloc1:31344060;copilot_t_ci:31333650;pythonrdcb7:31342333;6518g693:31463988;aj953862:31281341;6abeh943:31336334;envsdeactivate2:31464701;3efgi100_wstrepl:31403338;ec5jj548:31422691;cp_cls_t_966_ss:31454198;cp_cls_t_1081:31454832;test_treatment2:31471001;ei9d7968:31496641;ghj88844:31499326;cp_cls_c_1082:31491634;logging_enabled_new:31498466;","configs":[{"Id":"vscode","Parameters":{"config.chat.subagentTool.customAgents":true,"config.github.copilot.nextEditSuggestions.enabled":true,"config.inlineChat.renderMode":"zone","config.python.locator":"native","config.python.useEnvironmentsExtension":false,"copilotappmodcontextmenuenabled":false,"copilotchat.disableReplaceStringHealing":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilotchat.ruffDiagnosticsCookbook":true,"copilot_ci":true,"cveremediatoragentenabled":true,"github.copilot.chat.agentDebugLog.enabled":true,"github.copilot.chat.agentDebugLog.fileLogging.enabled":true,"ideenablecopilotsemanticsearch":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","new_test":true,"test-ai-12":false,"test_t":"cindytest","workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-ms-vscode-remote.remote-wsl: '{"wsl.downloadInProgress":false,"VSCode.ABExp.FeatureData":{"features":["config.chat.subagentTool.customAgents","config.github.copilot.nextEditSuggestions.enabled","config.inlineChat.renderMode","copilotappmodcontextmenuenabledcf","copilotchat.disableReplaceStringHealing","copilotchat.hiddenModelBEditTool","copilot_ci","cveremediatoragentenabled","github.copilot.chat.agentDebugLog.enabled","github.copilot.chat.agentDebugLog.fileLogging.enabled","ideenablecopilotsemanticsearch","livesharecontinuousaa","mindaroBinariesVersion","new_test","test-ai-12cf","test_t","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;copilot_t_ci:31333650;6518g693:31463988;aj953862:31281341;6abeh943:31336334;3efgi100_wstrepl:31403338;ec5jj548:31422691;cp_cls_t_966_ss:31454198;cp_cls_t_1081:31454832;test_treatment2:31471001;ei9d7968:31496641;ghj88844:31499326;cp_cls_c_1082:31491634;logging_enabled_new:31498466;","configs":[{"Id":"vscode","Parameters":{"config.chat.subagentTool.customAgents":true,"config.github.copilot.nextEditSuggestions.enabled":true,"config.inlineChat.renderMode":"zone","copilotappmodcontextmenuenabled":false,"copilotchat.disableReplaceStringHealing":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"cveremediatoragentenabled":true,"github.copilot.chat.agentDebugLog.enabled":true,"github.copilot.chat.agentDebugLog.fileLogging.enabled":true,"ideenablecopilotsemanticsearch":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","new_test":true,"test-ai-12":false,"test_t":"cindytest","workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"wsl.lastUpdateCheck":1777137731494,"extensionUsed":true,"wsl.usageTime.linux-x64":1777041501134}'
+ms-vscode-remote.remote-wsl: '{"wsl.downloadInProgress":false,"VSCode.ABExp.FeatureData":{"features":["config.chat.subagentTool.customAgents","config.github.copilot.nextEditSuggestions.enabled","config.inlineChat.renderMode","copilotappmodcontextmenuenabledcf","copilotchat.disableReplaceStringHealing","copilotchat.hiddenModelBEditTool","copilot_ci","cveremediatoragentenabled","github.copilot.chat.agentDebugLog.enabled","github.copilot.chat.agentDebugLog.fileLogging.enabled","ideenablecopilotsemanticsearch","livesharecontinuousaa","mindaroBinariesVersion","new_test","test-ai-12cf","test_t","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;copilot_t_ci:31333650;6518g693:31463988;aj953862:31281341;6abeh943:31336334;3efgi100_wstrepl:31403338;ec5jj548:31422691;cp_cls_t_966_ss:31454198;cp_cls_t_1081:31454832;test_treatment2:31471001;ei9d7968:31496641;ghj88844:31499326;cp_cls_c_1082:31491634;logging_enabled_new:31498466;","configs":[{"Id":"vscode","Parameters":{"config.chat.subagentTool.customAgents":true,"config.github.copilot.nextEditSuggestions.enabled":true,"config.inlineChat.renderMode":"zone","copilotappmodcontextmenuenabled":false,"copilotchat.disableReplaceStringHealing":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"cveremediatoragentenabled":true,"github.copilot.chat.agentDebugLog.enabled":true,"github.copilot.chat.agentDebugLog.fileLogging.enabled":true,"ideenablecopilotsemanticsearch":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","new_test":true,"test-ai-12":false,"test_t":"cindytest","workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"wsl.lastUpdateCheck":1777137970587,"extensionUsed":true,"wsl.usageTime.linux-x64":1777041501134}'
 PKief.material-icon-theme: '{"material-icon-theme.version":"4.21.0"}'
 redhat.vscode-yaml: '{"json-schema-key":{"https://raw.githubusercontent.com/compose-spec/compose-spec/master/schema/compose-spec.json":{"eTag":"W/\"cfd6044a441930c53bb6422439526e47eee995b5795f14a2a4d007901cdcc2b3\"","schemaPath":"c:\\Users\\luisc\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\0de41aa57ba6684e4d1a99150829d181"},"https://yarnpkg.com/configuration/yarnrc.json":{"eTag":"W/\"5115259be89c17531611aae7978ba4a2-ssl-df\"","schemaPath":"c:\\Users\\luisc\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\771c919320ea1df86e1ababa89ab5e2c"},"https://www.schemastore.org/github-workflow.json":{"eTag":"W/\"691642dc-17d62\"","schemaPath":"c:\\Users\\luisc\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\00db8df54019c8e656b5f465c5efa835"},"https://raw.githubusercontent.com/compose-spec/compose-go/master/schema/compose-spec.json":{"eTag":"W/\"78466628e84069814b504a709657f6eceb720d0cbbf0b14e77512b1ad15a7870\"","schemaPath":"c:\\Users\\luisc\\AppData\\Roaming\\Code\\User\\globalStorage\\redhat.vscode-yaml\\schemas_cache\\34be3ed6ba3f080e978bcd1d6a0ce52e"}}}'
 ritwickdey.LiveServer: '{"liveServer.setup.version":"5.7.9"}'
@@ -289,9 +991,9 @@ workbench.accounts.experimental.showEntitlements: "false"
 workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.chat.sessions","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.blackbox","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.blackboxai-dev-ActivityBar","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.github-dbclient-history","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.dockerView","pinned":false,"visible":true,"order":18},{"id":"workbench.view.extension.azure","pinned":false,"visible":true,"order":14},{"id":"workbench.view.extension.chatgpt-vscode-view-container","pinned":false,"visible":true,"order":18},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":7},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.containersView","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.geminiOutline","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.codeium","pinned":true,"visible":false,"order":21},{"id":"workbench.view.extension.geminiChat","pinned":true,"visible":false,"order":13},{"id":"workbench.panel.chatSidebar","pinned":true,"visible":false,"order":100},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"workbench.view.extension.atlascode-drawer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.thunder-client","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.thunder-client-sidebar-view","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.github-cweijan-mysql","pinned":true,"visible":true,"order":11},{"id":"workbench.view.extension.github-cweijan-nosql","pinned":false,"visible":true,"order":13},{"id":"workbench.view.extension.dataworkspace","pinned":true,"visible":true,"order":21},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.myViewContainer","pinned":true,"visible":false,"order":16},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorador\",\"isBui\
-  ltin\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\
-  \"npm:showScriptExplorer\"},{},{}]},{\"id\":\"workbench.view.chat.sessions\",\
-  \"name\":\"Sesiones de
+  ltin\":true,\"views\":[{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"n\
+  pm:showScriptExplorer\"},{},{}]},{\"id\":\"workbench.view.chat.sessions\",\"n\
+  ame\":\"Sesiones de
   agentes\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.blackbox\",\
   \"name\":\"BlackBox\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension\
   .blackboxai-dev-ActivityBar\",\"name\":\"blackbox\",\"isBuiltin\":false},{\"id\
@@ -510,7 +1212,7 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeI
   de Copilot","isBuiltin":false}]'
 workbench.auxiliaryBar.size: "300"
 workbench.chat.hideWelcomeView: "true"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["dotenv",true],["dockercompose",true],["properties",true],["dockerfile",true],["blade",true],["markdown",true],["python",true],["vue",true],["jsonc",true],["yaml",true],["php",true],["plaintext",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["dotenv",true],["dockercompose",true],["properties",true],["dockerfile",true],["blade",true],["markdown",true],["python",true],["vue",true],["jsonc",true],["yaml",true],["plaintext",true],["php",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false,"order":1},{"id":"timeline","isHidden":false,"order":2},{"id":"workbench.explorer.openEditorsView","isHidden":false,"order":4},{"id":"workbench.explorer.fileView","isHidden":false,"order":0},{"id":"npm","isHidden":false,"order":3},{"id":"mysql","isHidden":false,"order":5},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false},{"id":"gitlens.views.patchDetails","isHidden":false},{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false},{"id":"SonarLint.IssueLocations","isHidden":false},{"id":"codeium.chatPanelView","isHidden":false},{"id":"chatgpt-vscode.view","isHidden":false},{"id":"dataworkspace.views.main","isHidden":false},{"id":"twinny.sidebar","isHidden":false},{"id":"SonarQube.GetStarted","isHidden":false},{"id":"SonarLint.ConnectedMode","isHidden":false},{"id":"SonarLint.AIAgentsConfiguration","isHidden":false},{"id":"SonarLint.AllRules","isHidden":false},{"id":"SonarLint.HelpAndFeedback","isHidden":false},{"id":"SonarQube.Findings","isHidden":false},{"id":"SonarQube.RemediationPanel","isHidden":false},{"id":"SonarQube.Labs","isHidden":false},{"id":"aikido.welcome","isHidden":false},{"id":"aikido.active-file-scan-results","isHidden":false},{"id":"aikido.sca-scanning","isHidden":false},{"id":"aikido.sca","isHidden":false},{"id":"aikido.getting-started","isHidden":false},{"id":"aikido.full-scan-welcome","isHidden":false},{"id":"aikido.full-scan-results","isHidden":false},{"id":"continue.continueGUIView","isHidden":false},{"id":"objectExplorer","isHidden":false},{"id":"queryHistory","isHidden":false},{"id":"backgroundTasks","isHidden":false},{"id":"queryResult","isHidden":false},{"id":"activateBito.sidebar","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.newDefaultThemeNotification: "true"
@@ -562,6 +1264,7 @@ workbench.view.extension.dataworkspace.state.hidden: '[{"id":"dataworkspace.view
 workbench.view.extension.devdb-container.state.hidden: '[{"id":"devdb","isHidden":false}]'
 workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
 workbench.view.extension.geminiChat.state.hidden: '[{"id":"cloudcode.gemini.chatView","isHidden":false}]'
+workbench.view.extension.geminiOutline.state.hidden: '[{"id":"cloudcode.gemini.outlineView","isHidden":false}]'
 workbench.view.extension.github-cweijan-mysql.state.hidden: '[{"id":"github.cweijan.mysql","isHidden":false}]'
 workbench.view.extension.github-cweijan-nosql.state.hidden: '[{"id":"github.cweijan.nosql","isHidden":false}]'
 workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false},{"id":"gitlens.views.welcome","isHidden":false}]'

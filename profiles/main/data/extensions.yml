@@ -11,8 +11,6 @@ enabled:
     uuid: 3f770365-3682-44ee-a63e-5ef1b16c74d2
   - id: ahmadawais.shades-of-purple
     uuid: 431aa1a8-74f4-43d5-a83b-f4960510da5f
-  - id: AikidoSecurity.aikido
-    uuid: 05701453-2bea-4413-8bf9-c51c081afa95
   - id: ajshortt.tokyo-hack
     uuid: 502f71da-d7e3-4cad-84e9-9cb39d8bc252
   - id: akamud.vscode-theme-onedark
@@ -27,8 +25,6 @@ enabled:
     uuid: 87c9998f-5c0f-49ee-b89f-51340cdc449a
   - id: bierner.markdown-preview-github-styles
     uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
-  - id: Bito.Bito
-    uuid: c89f47de-3269-415c-99ed-bb853a3f0fe7
   - id: bmewburn.vscode-intelephense-client
     uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
   - id: burkeholland.simple-react-snippets
@@ -39,10 +35,6 @@ enabled:
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: codingyu.laravel-goto-view
     uuid: 0b86e0a5-d2ef-48d8-9a1a-73f96e65f26e
-  - id: Continue.continue
-    uuid: c8d442ab-9ee3-4891-a5b0-994f14f54c94
-  - id: cweijan.vscode-mysql-client2
-    uuid: c0fde3ce-39d4-4ea8-89ce-e2a202eeacaf
   - id: damianbal.vs-phpclassgen
     uuid: bcc22ae5-761d-4f3f-bd13-8eb77ed6a582
   - id: dbaeumer.vscode-eslint
@@ -79,6 +71,8 @@ enabled:
     uuid: d4598ff7-3c39-47f6-bf45-2df845252570
   - id: fractalbrew.backticks
     uuid: 529cfc85-4b7f-4cab-8be1-f451bc361fa6
+  - id: google.geminicodeassist
+    uuid: 51643712-2cb2-4384-b7cc-d55b01b8274b
   - id: HeinThuYa.laravelcollective
     uuid: 5a244d7b-8928-4d12-9341-33686b508a95
   - id: hollowtree.vue-snippets
@@ -101,12 +95,6 @@ enabled:
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: MS-CEINTL.vscode-language-pack-es
     uuid: 47e020a1-33db-4cc0-a1b4-42f97781749a
-  - id: ms-dotnettools.vscode-dotnet-runtime
-    uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
-  - id: ms-mssql.mssql
-    uuid: 4bf45e86-a448-4531-8c01-ef33f4536306
-  - id: ms-mssql.sql-bindings-vscode
-    uuid: 48154c8d-77c4-4978-a3a2-807fc5266321
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python

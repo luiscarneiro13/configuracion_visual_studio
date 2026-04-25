@@ -2,8 +2,8 @@ builtin:
   disabled:
     - vscode.php-language-features
 disabled:
-  - id: GitHub.copilot
-    uuid: 00000000-0000-0000-0000-000000000000
+  - id: GitHub.copilot-chat
+    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
@@ -39,8 +39,8 @@ enabled:
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: codingyu.laravel-goto-view
     uuid: 0b86e0a5-d2ef-48d8-9a1a-73f96e65f26e
-  - id: cweijan.dbclient-jdbc
-    uuid: 1fe0d785-8db6-44ef-8113-cb0d98a88473
+  - id: Continue.continue
+    uuid: c8d442ab-9ee3-4891-a5b0-994f14f54c94
   - id: cweijan.vscode-mysql-client2
     uuid: c0fde3ce-39d4-4ea8-89ce-e2a202eeacaf
   - id: damianbal.vs-phpclassgen
@@ -79,10 +79,6 @@ enabled:
     uuid: d4598ff7-3c39-47f6-bf45-2df845252570
   - id: fractalbrew.backticks
     uuid: 529cfc85-4b7f-4cab-8be1-f451bc361fa6
-  - id: genieai.chatgpt-vscode
-    uuid: daf35080-6889-46fc-89bf-288dce8f8ed2
-  - id: GitHub.copilot-chat
-    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
   - id: HeinThuYa.laravelcollective
     uuid: 5a244d7b-8928-4d12-9341-33686b508a95
   - id: hollowtree.vue-snippets
@@ -105,14 +101,12 @@ enabled:
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: MS-CEINTL.vscode-language-pack-es
     uuid: 47e020a1-33db-4cc0-a1b4-42f97781749a
-  - id: ms-mssql.data-workspace-vscode
-    uuid: 88e082b7-d289-4c59-bde4-4c61e0280428
+  - id: ms-dotnettools.vscode-dotnet-runtime
+    uuid: 1aab81a1-b3d9-4aef-976b-577d5d90fe3f
   - id: ms-mssql.mssql
     uuid: 4bf45e86-a448-4531-8c01-ef33f4536306
   - id: ms-mssql.sql-bindings-vscode
     uuid: 48154c8d-77c4-4978-a3a2-807fc5266321
-  - id: ms-mssql.sql-database-projects-vscode
-    uuid: 4e9e1d12-64b6-4573-9203-f601d27de5a3
   - id: ms-python.debugpy
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python

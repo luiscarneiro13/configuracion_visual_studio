@@ -1,53 +1,45 @@
 [
+    // --- 1. ALINEACIÓN (BETTER ALIGN) ---
     {
-        "key": "ctrl+shift+i",
-        "command": "notebook.formatCell",
-        "when": "editorHasDocumentFormattingProvider && editorTextFocus && inCompositeEditor && notebookEditable && !editorReadonly && activeEditor == 'workbench.editor.notebook'"
+        "key": "alt+a",
+        "command": "wwm.aligncode",
+        "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "shift+alt+f",
-        "command": "-notebook.formatCell",
-        "when": "editorHasDocumentFormattingProvider && editorTextFocus && inCompositeEditor && notebookEditable && !editorReadonly && activeEditor == 'workbench.editor.notebook'"
+        "key": "alt+a",
+        "command": "-continue.applyCodeFromChat" 
     },
+
+    // --- 2. SUGERENCIAS Y BLOQUEO DE IA (CTRL+I) ---
+    {
+        "key": "ctrl+i",
+        "command": "editor.action.triggerSuggest",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    // Quitamos el permiso a todas las IAs de usar Ctrl+I
+    { "key": "ctrl+i", "command": "-inlineChat.start" },
+    { "key": "ctrl+i", "command": "-workbench.action.terminal.chat.start" },
+    { "key": "ctrl+i", "command": "-inlineChat.startWithCurrentLine" },
+    { "key": "ctrl+i", "command": "-bitoAI.chat.start" },
+    { "key": "ctrl+i", "command": "-bitoAI.openChat" },
+
+    // --- 3. FORMATEO DE DOCUMENTO (CTRL+SHIFT+I) ---
     {
         "key": "ctrl+shift+i",
         "command": "editor.action.formatDocument",
         "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
     },
+    // Desactivamos el Shift+Alt+F para que no haga conflicto
     {
         "key": "shift+alt+f",
-        "command": "-editor.action.formatDocument",
-        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
+        "command": "-editor.action.formatDocument"
     },
+
+    // --- 4. COMENTARIOS (ESTILO LIMPIO) ---
     {
-        "key": "ctrl+shift+i",
-        "command": "editor.action.formatDocument.none",
-        "when": "editorTextFocus && !editorHasDocumentFormattingProvider && !editorReadonly"
-    },
-    {
-        "key": "shift+alt+f",
-        "command": "-editor.action.formatDocument.none",
-        "when": "editorTextFocus && !editorHasDocumentFormattingProvider && !editorReadonly"
-    },
-    {
-        "key": "ctrl+shift+i",
-        "command": "filesExplorer.findInFolder",
-        "when": "explorerResourceIsFolder && explorerViewletVisible && filesExplorerFocus && !inputFocus"
-    },
-    {
-        "key": "shift+alt+f",
-        "command": "-filesExplorer.findInFolder",
-        "when": "explorerResourceIsFolder && explorerViewletVisible && filesExplorerFocus && !inputFocus"
-    },
-    {
-        "key": "ctrl+shift+i",
-        "command": "notebook.format",
-        "when": "notebookEditable && !editorTextFocus && activeEditor == 'workbench.editor.notebook'"
-    },
-    {
-        "key": "shift+alt+f",
-        "command": "-notebook.format",
-        "when": "notebookEditable && !editorTextFocus && activeEditor == 'workbench.editor.notebook'"
+        "key": "ctrl+shift+7",
+        "command": "editor.action.commentLine",
+        "when": "editorTextFocus && !editorReadonly"
     },
     {
         "key": "ctrl+k ctrl+c",
@@ -55,167 +47,15 @@
         "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "ctrl+k ctrl+c",
-        "command": "-editor.action.addCommentLine",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "ctrl+shift+a",
-        "command": "editor.action.blockComment",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "shift+alt+a",
-        "command": "-editor.action.blockComment",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "ctrl+oem_2",
-        "command": "-editor.action.commentLine",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "ctrl+shift+oem_2",
+        "key": "ctrl+k ctrl+u",
         "command": "editor.action.removeCommentLine",
         "when": "editorTextFocus && !editorReadonly"
     },
-    {
-        "key": "ctrl+k ctrl+u",
-        "command": "-editor.action.removeCommentLine",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "ctrl+shift+7",
-        "command": "editor.foldAllBlockComments",
-        "when": "editorTextFocus && foldingEnabled"
-    },
-    {
-        "key": "ctrl+k ctrl+oem_2",
-        "command": "-editor.foldAllBlockComments",
-        "when": "editorTextFocus && foldingEnabled"
-    },
-    {
-        "key": "ctrl+shift+7",
-        "command": "toggleExplainMode",
-        "when": "suggestWidgetVisible"
-    },
-    {
-        "key": "ctrl+oem_2",
-        "command": "-toggleExplainMode",
-        "when": "suggestWidgetVisible"
-    },
-    {
-        "key": "ctrl+shift+7",
-        "command": "editor.action.commentLine"
-    },
-    {
-        "key": "ctrl+shift+capslock",
-        "command": "wwm.aligncode",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-inlineChat2.reveal",
-        "when": "inlineChatHasEditsAgent && !chatEdits.isGlobalEditingSession && chatEdits.requestCount >= 1"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-inlineChat2.close",
-        "when": "inlineChatHasEditsAgent && inlineChatVisible && !chatEdits.isRequestInProgress && chatEdits.requestCount == '0' || inlineChatHasEditsAgent && inlineChatVisible && !chatEdits.hasEditorModifications && !chatEdits.isRequestInProgress && chatEdits.requestCount == '0'"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-workbench.action.terminal.chat.start",
-        "when": "chatIsEnabled && terminalChatAgentRegistered && terminalFocusInAny && terminalHasBeenCreated || chatIsEnabled && terminalChatAgentRegistered && terminalFocusInAny && terminalProcessSupported"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-inlineChat.start",
-        "when": "editorFocus && inlineChatHasEditsAgent && inlineChatPossible && !editorReadonly && !editorSimpleInput || editorFocus && inlineChatHasProvider && inlineChatPossible && !editorReadonly && !editorSimpleInput"
-    },
-    {
-        "key": "ctrl+k i",
-        "command": "-inlineChat.startWithCurrentLine",
-        "when": "inlineChatHasProvider && !editorReadonly && !inlineChatVisible"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-inlineChat.startWithCurrentLine",
-        "when": "inlineChatHasProvider && inlineChatShowingHint && !editorReadonly && !inlineChatVisible"
-    },
-    {
-        "key": "ctrl+alt+i",
-        "command": "-workbench.action.chat.open",
-        "when": "!chatSetupDisabled && !chatSetupHidden"
-    },
-    {
-        "key": "ctrl+shift+i",
-        "command": "-workbench.action.chat.openAgent",
-        "when": "config.chat.agent.enabled && !chatSetupDisabled && !chatSetupHidden"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-workbench.action.chat.stopListeningAndSubmit",
-        "when": "inChatInput && voiceChatInProgress && scopedVoiceChatInProgress == 'editor' || inChatInput && voiceChatInProgress && scopedVoiceChatInProgress == 'inline' || inChatInput && voiceChatInProgress && scopedVoiceChatInProgress == 'quick' || inChatInput && voiceChatInProgress && scopedVoiceChatInProgress == 'view' || inlineChatFocused && voiceChatInProgress && scopedVoiceChatInProgress == 'editor' || inlineChatFocused && voiceChatInProgress && scopedVoiceChatInProgress == 'inline' || inlineChatFocused && voiceChatInProgress && scopedVoiceChatInProgress == 'quick' || inlineChatFocused && voiceChatInProgress && scopedVoiceChatInProgress == 'view'"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-workbench.action.chat.startVoiceChat",
-        "when": "chatIsEnabled && hasSpeechProvider && inChatInput && !chatSessionRequestInProgress && !editorFocus && !notebookEditorFocused && !scopedVoiceChatGettingReady && !speechToTextInProgress || chatIsEnabled && hasSpeechProvider && inlineChatFocused && !chatSessionRequestInProgress && !editorFocus && !notebookEditorFocused && !scopedVoiceChatGettingReady && !speechToTextInProgress"
-    },
+
+    // --- 5. CHAT DE IA (RE-UBICADO PARA QUE NO MOLESTE) ---
     {
         "key": "ctrl+shift+q",
         "command": "workbench.action.chat.openagent",
         "when": "config.chat.agent.enabled && !chatSetupDisabled && !chatSetupHidden"
-    },
-    {
-        "key": "ctrl+shift+i",
-        "command": "-workbench.action.chat.openagent",
-        "when": "config.chat.agent.enabled && !chatSetupDisabled && !chatSetupHidden"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-search.action.searchWithAI",
-        "when": "hasAIResultProviderKey && searchViewletFocus"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-inlineChat.start",
-        "when": "editorFocus && inlineChatHasEditsAgent && inlineChatPossible && !editorReadonly && !editorSimpleInput && activeEditor != 'workbench.editor.notebook' || editorFocus && inlineChatHasNotebookAgent && inlineChatPossible && !editorReadonly && !editorSimpleInput && activeEditor == 'workbench.editor.notebook' || editorFocus && inlineChatHasNotebookInline && inlineChatPossible && !editorReadonly && !editorSimpleInput && activeEditor == 'workbench.editor.notebook' || editorFocus && inlineChatHasProvider && inlineChatPossible && !editorReadonly && !editorSimpleInput && activeEditor != 'workbench.editor.notebook'"
-    },
-    {
-        "key": "shift+oem_4",
-        "command": "-backticks.convertQuotes",
-        "when": "editorTextFocus && editorLangId == 'javascript' && vim.mode != 'CommandlineInProgress' && vim.mode != 'EasyMotionInputMode' && vim.mode != 'EasyMotionMode' && vim.mode != 'Normal' && vim.mode != 'SearchInProgressMode' && vim.mode != 'SurroundInputMode' && vim.mode != 'Visual' && vim.mode != 'VisualBlock' && vim.mode != 'VisualLine'"
-    },
-    {
-        "key": "shift+oem_4",
-        "command": "-backticks.convertQuotes",
-        "when": "editorTextFocus && editorLangId == 'javascriptreact' && vim.mode != 'CommandlineInProgress' && vim.mode != 'EasyMotionInputMode' && vim.mode != 'EasyMotionMode' && vim.mode != 'Normal' && vim.mode != 'SearchInProgressMode' && vim.mode != 'SurroundInputMode' && vim.mode != 'Visual' && vim.mode != 'VisualBlock' && vim.mode != 'VisualLine'"
-    },
-    {
-        "key": "shift+oem_4",
-        "command": "-backticks.convertQuotes",
-        "when": "editorTextFocus && editorLangId == 'typescript' && vim.mode != 'CommandlineInProgress' && vim.mode != 'EasyMotionInputMode' && vim.mode != 'EasyMotionMode' && vim.mode != 'Normal' && vim.mode != 'SearchInProgressMode' && vim.mode != 'SurroundInputMode' && vim.mode != 'Visual' && vim.mode != 'VisualBlock' && vim.mode != 'VisualLine'"
-    },
-    {
-        "key": "shift+oem_4",
-        "command": "-backticks.convertQuotes",
-        "when": "editorTextFocus && editorLangId == 'typescriptreact' && vim.mode != 'CommandlineInProgress' && vim.mode != 'EasyMotionInputMode' && vim.mode != 'EasyMotionMode' && vim.mode != 'Normal' && vim.mode != 'SearchInProgressMode' && vim.mode != 'SurroundInputMode' && vim.mode != 'Visual' && vim.mode != 'VisualBlock' && vim.mode != 'VisualLine'"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-settings.action.toggleAiSearch",
-        "when": "aiSettingResultsAvailable && inSettingsEditor"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-workbench.action.chat.startVoiceChat",
-        "when": "chatIsEnabled && hasSpeechProvider && inChatInput && !editorFocus && !notebookEditorFocused && !scopedVoiceChatGettingReady && !speechToTextInProgress || chatIsEnabled && hasSpeechProvider && inlineChatFocused && !editorFocus && !notebookEditorFocused && !scopedVoiceChatGettingReady && !speechToTextInProgress"
-    },
-    {
-        "key": "ctrl+i",
-        "command": "-inlineChat.start",
-        "when": "editorFocus && inlineChatHasEditsAgent && inlineChatPossible && !editorReadonly && !editorSimpleInput || editorFocus && inlineChatHasNotebookAgent && inlineChatPossible && !editorReadonly && !editorSimpleInput && activeEditor == 'workbench.editor.notebook' || editorFocus && inlineChatHasNotebookInline && inlineChatPossible && !editorReadonly && !editorSimpleInput && activeEditor == 'workbench.editor.notebook'"
     }
 ]

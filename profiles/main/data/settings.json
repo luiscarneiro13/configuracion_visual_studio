@@ -1,12 +1,18 @@
 {
     "sync.gist": "f16e7ebbc0a84549b91271d6fe74b0f0",
+    "sync.autoUpload": true,
+    "sync.autoDownload": true,
+    "sync.syncExtensions": true,
+    "sync.syncKeybindings": false, // <-- ESTO BLOQUEA TUS ATAJOS PARA QUE NO SE BORREN
+    "sync.quietSync": true,
+    "sync.askGistName": false,
     "[javascript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
     "git.suggestSmartCommit": false,
     "git.confirmEmptyCommits": false,
     "git.enableSmartCommit": true,
-    "workbench.colorTheme": "Night Owl",
+    "workbench.colorTheme": "Dark Modern",
     "[html]": {
         "editor.defaultFormatter": "vscode.html-language-features"
     },
@@ -25,7 +31,13 @@
     "settings-repository.branch": "main",
     "settings-repository.repository": "https://github.com/luiscarneiro13/vscode.git",
     "workbench.iconTheme": "material-icon-theme",
-    "editor.fontSize": 13.5,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 30,
+    "editor.fontWeight": "500",
+    "editor.fontFamily": "'JetBrains Mono', 'Fira Code', monospace",
+    "editor.fontLigatures": true,
+    "editor.letterSpacing": 0.5,
+    "editor.cursorBlinking": "smooth",
     "[scss]": {
         "editor.defaultFormatter": "vscode.css-language-features"
     },
@@ -163,7 +175,7 @@
     "mssql.connectionGroups": [
         {
             "name": "ROOT",
-            "id": "64A1920C-A297-429D-8B48-E0DC3934A739"
+            "id": "ROOT"
         }
     ],
     "mssql.connections": [],
@@ -210,5 +222,20 @@
     ],
     "gitlens.ai.model": "vscode",
     "gitlens.ai.vscode.model": "copilot:gpt-4.1",
-    "aikido.coreUrl": "https://ide.aikido.dev", // solo alinea cuando hay "=>"
+    "aikido.coreUrl": "https://ide.aikido.dev",
+    "terminal.integrated.initialHint": false,
+    "sonarlint.rules": {
+        "php:S1766": {
+            "level": "off"
+        }
+    },
+    "sonarlint.focusOnNewCode": true,
+    "sonarlint.automaticAnalysis": true,
+    "workbench.editor.empty.hint": "hidden",
+    "chat.disableAIFeatures": true,
+    "yaml.schemas": {
+        "file:///c%3A/Users/luisc/.vscode/extensions/continue.continue-1.2.22-win32-x64/config-yaml-schema.json": [
+            ".continue/**/*.yaml"
+        ]
+    }, // solo alinea cuando hay "=>"
 }

@@ -1,18 +1,16 @@
 builtin:
   disabled:
     - vscode.php-language-features
-disabled:
-  - id: GitHub.copilot-chat
-    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
+disabled: []
 enabled:
   - id: aaron-bond.better-comments
     uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
   - id: aeschli.vscode-css-formatter
-    uuid: 3f770365-3682-44ee-a63e-5ef1b16c74d2
+    uuid: null
   - id: ahmadawais.shades-of-purple
     uuid: 431aa1a8-74f4-43d5-a83b-f4960510da5f
   - id: ajshortt.tokyo-hack
-    uuid: 502f71da-d7e3-4cad-84e9-9cb39d8bc252
+    uuid: null
   - id: akamud.vscode-theme-onedark
     uuid: 9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6
   - id: amiralizadeh9480.laravel-extra-intellisense
@@ -20,23 +18,21 @@ enabled:
   - id: anseki.vscode-color
     uuid: 37d7747f-e652-4eac-83de-f2939f7e2121
   - id: austenc.laravel-blade-spacer
-    uuid: 853930e5-1159-4957-8a02-1b98ceb3046b
+    uuid: null
   - id: AykutSarac.jsoncrack-vscode
     uuid: 87c9998f-5c0f-49ee-b89f-51340cdc449a
   - id: bierner.markdown-preview-github-styles
     uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
   - id: bmewburn.vscode-intelephense-client
     uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
-  - id: burkeholland.simple-react-snippets
-    uuid: a84825e8-5f04-4988-b85a-4942e795bcbe
   - id: chouzz.vscode-better-align
     uuid: f5a6ecde-96ce-4fde-8744-ab88c7727069
   - id: christian-kohler.path-intellisense
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: Codeium.windsurfPyright
+    uuid: 1adb9c26-188a-4fb6-840e-b1e951ecff7c
   - id: codingyu.laravel-goto-view
     uuid: 0b86e0a5-d2ef-48d8-9a1a-73f96e65f26e
-  - id: damianbal.vs-phpclassgen
-    uuid: bcc22ae5-761d-4f3f-bd13-8eb77ed6a582
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: docker.docker
@@ -45,36 +41,22 @@ enabled:
     uuid: 99c12a52-ff68-4e9d-a975-a67556fee2f5
   - id: dsznajder.es7-react-js-snippets
     uuid: 19804510-b475-4dae-b0f7-6ca08fd1af0c
-  - id: dunstontc.dark-plus-syntax
-    uuid: dd7e0ff7-9eb5-45fe-8b21-00e79b632b7f
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: EditorConfig.EditorConfig
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
-  - id: EmilijanMB.sublime-text-4-theme
-    uuid: 19072f99-a410-4008-9c45-64e8693208e3
-  - id: enkia.tokyo-night
-    uuid: 1cac7443-911e-48b9-8341-49f3880c288a
-  - id: EQuimper.react-native-react-redux
-    uuid: 7f7e0e9c-b5ad-4e21-a425-f63bd56cb13f
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: file-icons.file-icons
     uuid: 43335a8d-5929-408b-874a-65f08362642c
-  - id: flydreame.docblocker
-    uuid: f47eb891-234c-423d-a0c4-018fd6c9765a
   - id: formulahendry.auto-close-tag
     uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
   - id: formulahendry.auto-rename-tag
     uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
   - id: formulahendry.vscode-mysql
     uuid: d4598ff7-3c39-47f6-bf45-2df845252570
-  - id: fractalbrew.backticks
-    uuid: 529cfc85-4b7f-4cab-8be1-f451bc361fa6
   - id: google.geminicodeassist
     uuid: 51643712-2cb2-4384-b7cc-d55b01b8274b
-  - id: HeinThuYa.laravelcollective
-    uuid: 5a244d7b-8928-4d12-9341-33686b508a95
   - id: hollowtree.vue-snippets
     uuid: 3620b114-6fe8-459b-8c68-99943147069b
   - id: IronGeek.vscode-env
@@ -99,10 +81,8 @@ enabled:
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
-  - id: ms-python.vscode-pylance
-    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
-  - id: ms-vscode-remote.remote-wsl
-    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
+  - id: ms-python.vscode-python-envs
+    uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
   - id: msjsdiag.vscode-react-native
     uuid: b35cd5b4-18db-46f9-ba9e-06096c3b22d3
   - id: octref.vetur
@@ -123,20 +103,12 @@ enabled:
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: ritwickdey.LiveServer
     uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
-  - id: rodrigovallades.es7-react-js-snippets
-    uuid: bc0b2fe3-a089-4015-a3dc-07452cb641b2
   - id: sdras.night-owl
     uuid: e58f546c-babc-455f-a265-ba40dbd140d4
   - id: shufo.vscode-blade-formatter
     uuid: 68a2e971-8ae5-493b-9c34-f4233fb14e40
-  - id: tobiaswaelde.material-colors
-    uuid: 1dfe4175-fd5a-4390-90f4-1bbaaaad4fa3
-  - id: unused-code-finder.unused-code-finder
-    uuid: d223c98a-4611-4a1c-a855-e88e12060e7a
   - id: usernamehw.errorlens
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
-  - id: Wscats.qf
-    uuid: a2bb8078-6609-4d07-a103-fee1f05791f2
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zhuangtongfa.material-theme

@@ -57,5 +57,9 @@
         "key": "ctrl+shift+q",
         "command": "workbench.action.chat.openagent",
         "when": "config.chat.agent.enabled && !chatSetupDisabled && !chatSetupHidden"
+    },
+    {
+        "key": "ctrl+shift+i",
+        "command": "windsurf.cascadePanel.focus"
     }
 ]

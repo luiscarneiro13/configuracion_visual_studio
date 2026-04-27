@@ -1,41 +1,51 @@
 [
-    // --- 1. ALINEACIÓN (BETTER ALIGN) ---
-    {
-        "key": "alt+a",
-        "command": "wwm.aligncode",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "alt+a",
-        "command": "-continue.applyCodeFromChat" 
-    },
-
-    // --- 2. SUGERENCIAS Y BLOQUEO DE IA (CTRL+I) ---
+    // ============================================================
+    // 1. SUGERENCIAS E IMPORTACIONES (CTRL+I)
+    // ============================================================
     {
         "key": "ctrl+i",
         "command": "editor.action.triggerSuggest",
         "when": "editorTextFocus && !editorReadonly"
     },
-    // Quitamos el permiso a todas las IAs de usar Ctrl+I
+    // BLOQUEO: Evitamos que cualquier IA use Ctrl+I
     { "key": "ctrl+i", "command": "-inlineChat.start" },
-    { "key": "ctrl+i", "command": "-workbench.action.terminal.chat.start" },
-    { "key": "ctrl+i", "command": "-inlineChat.startWithCurrentLine" },
+    { "key": "ctrl+i", "command": "-windsurf.prioritized.command.open" },
+    { "key": "ctrl+i", "command": "-geminicodeassist.showinEditor" },
     { "key": "ctrl+i", "command": "-bitoAI.chat.start" },
-    { "key": "ctrl+i", "command": "-bitoAI.openChat" },
+    { "key": "ctrl+i", "command": "-inlineChat.askInChat" },
+    { "key": "ctrl+i", "command": "-workbench.action.chat.startVoiceChat" },
 
-    // --- 3. FORMATEO DE DOCUMENTO (CTRL+SHIFT+I) ---
+    // ============================================================
+    // 2. FORMATEO (CTRL+SHIFT+I)
+    // ============================================================
     {
         "key": "ctrl+shift+i",
         "command": "editor.action.formatDocument",
-        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
+        "when": "editorTextFocus && !editorReadonly"
     },
-    // Desactivamos el Shift+Alt+F para que no haga conflicto
-    {
-        "key": "shift+alt+f",
-        "command": "-editor.action.formatDocument"
-    },
+    // Desactivamos el atajo por defecto de VS Code para no tener duplicados
+    { "key": "shift+alt+f", "command": "-editor.action.formatDocument" },
 
-    // --- 4. COMENTARIOS (ESTILO LIMPIO) ---
+    // ============================================================
+    // 3. WINDSURF (CTRL+SHIFT+C)
+    // ============================================================
+    {
+        "key": "ctrl+shift+c",
+        "command": "windsurf.triggerCascade",
+        "when": "true" 
+    },
+    { "key": "ctrl+shift+c", "command": "-workbench.action.terminal.openNativeConsole" },
+    { "key": "ctrl+shift+c", "command": "-workbench.action.terminal.copySelection" },
+
+    // ============================================================
+    // 4. OTROS (ALINEACIÓN Y COMENTARIOS)
+    // ============================================================
+    {
+        "key": "alt+a",
+        "command": "wwm.aligncode",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    { "key": "alt+a", "command": "-continue.applyCodeFromChat" },
     {
         "key": "ctrl+shift+7",
         "command": "editor.action.commentLine",
@@ -50,16 +60,5 @@
         "key": "ctrl+k ctrl+u",
         "command": "editor.action.removeCommentLine",
         "when": "editorTextFocus && !editorReadonly"
-    },
-
-    // --- 5. CHAT DE IA (RE-UBICADO PARA QUE NO MOLESTE) ---
-    {
-        "key": "ctrl+shift+q",
-        "command": "workbench.action.chat.openagent",
-        "when": "config.chat.agent.enabled && !chatSetupDisabled && !chatSetupHidden"
-    },
-    {
-        "key": "ctrl+shift+i",
-        "command": "windsurf.cascadePanel.focus"
     }
 ]

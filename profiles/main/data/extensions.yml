@@ -59,6 +59,8 @@ enabled:
     uuid: 68a2e971-8ae5-493b-9c34-f4233fb14e40
   - id: streetsidesoftware.code-spell-checker
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: streetsidesoftware.code-spell-checker-spanish
+    uuid: 8d6dcf6f-1957-4dd5-809e-addb07d8c1fb
   - id: usernamehw.errorlens
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
   - id: Vue.volar

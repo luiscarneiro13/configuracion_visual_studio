@@ -173,4 +173,5 @@
     "javascript.suggest.autoImports": true,
     "docker.extension.enableComposeLanguageServer": false,
     "github.copilot.nextEditSuggestions.enabled": false,
+    "bitoAI.appearance.fontSize (Match with IDE Font)": false,
 }

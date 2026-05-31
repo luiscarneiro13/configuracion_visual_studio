@@ -11,7 +11,7 @@
         "when": "editorTextFocus && !editorReadonly"
     },
 
-    // --- BLOQUEO TOTAL DE CTRL+I PARA CHAT/AI (Elimina conflictos) ---
+    // --- BLOQUEO TOTAL DE CTRL+I PARA CHAT/AI ---
     { "key": "ctrl+i", "command": "-search.action.searchWithAI", "when": "hasAIResultProviderKey && searchViewletFocus" },
     { "key": "ctrl+i", "command": "-inlineChat2.reveal", "when": "inlineChatHasEditsAgent && !chatEdits.isGlobalEditingSession && chatEdits.requestCount >= 1" },
     { "key": "ctrl+i", "command": "-inlineChat2.close", "when": "inlineChatHasEditsAgent && inlineChatVisible && !chatEdits.isRequestInProgress && chatEdits.requestCount == '0' || inlineChatHasEditsAgent && inlineChatVisible && !chatEdits.hasEditorModifications && !chatEdits.isRequestInProgress && chatEdits.requestCount == '0'" },
@@ -21,26 +21,30 @@
     { "key": "ctrl+i", "command": "-inlineChat.startWithCurrentLine", "when": "inlineChatHasProvider && inlineChatShowingHint && !editorReadonly && !inlineChatVisible" },
     { "key": "ctrl+alt+i", "command": "-workbench.action.chat.open", "when": "!chatSetupHidden" },
 
-    // --- 1. CTRL+I PARA SUGERENCIAS DE IMPORTACIÓN (Quick Fix / Acciones rápidas) ---
+    // --- 1. CTRL+I: SUGERENCIAS DE IMPORTACIÓN (Quick Fix) ---
     {
         "key": "ctrl+i",
         "command": "editor.action.quickFix",
         "when": "editorTextFocus && !editorReadonly"
     },
 
-    // --- 2. ALT+A EXCLUSIVO PARA ALIGN BY REGEX ---
-    // Quitamos cualquier otra cosa que use alt+a por defecto
+    // --- 2. ALT+A: ALINEACIÓN POR COLUMNAS/SIGNOS ---
+    // Forzamos la desactivación de cualquier comando que use alt+a por defecto
     {
         "key": "alt+a",
-        "command": "-editor.action.alignByRegex" 
+        "command": "-alignment.align"
     },
     {
         "key": "alt+a",
-        "command": "editor.action.alignByRegex",
-        "when": "editorTextFocus && !editorReadonly"
+        "command": "alignment.align",
+        "when": "editorHasSelection && editorTextFocus && !editorReadonly"
     },
 
-    // --- 3. CTRL+SHIFT+I SOLO PARA INDENTAR (Formatear Selección/Documento) ---
+    // --- 3. CTRL+SHIFT+I: SOLO PARA INDENTAR ---
+    {
+        "key": "ctrl+shift+i",
+        "command": "-editor.action.formatDocument"
+    },
     {
         "key": "ctrl+shift+i",
         "command": "editor.action.formatSelection",

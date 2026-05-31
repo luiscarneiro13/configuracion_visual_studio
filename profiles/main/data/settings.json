@@ -183,4 +183,11 @@
     "editor.fontSize": 14,
     "editor.lineHeight": 22,
     "cSpell.language": "en,es",
+    "zoo-code.debug": false,
+    "zoo-code.allowedCommands": [
+        "git log",
+        "git diff",
+        "git show"
+    ],
+    "zoo-code.deniedCommands": [],
 }

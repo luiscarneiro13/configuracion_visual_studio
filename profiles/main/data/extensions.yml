@@ -53,8 +53,8 @@ enabled:
     uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
-  - id: RooVeterinaryInc.roo-cline
-    uuid: 4ce92b26-476a-4dd1-bf50-a8df00b87a74
+  - id: saoudrizwan.claude-dev
+    uuid: ad94c633-a9d5-4f78-b85f-c664e7d91a0f
   - id: shufo.vscode-blade-formatter
     uuid: 68a2e971-8ae5-493b-9c34-f4233fb14e40
   - id: streetsidesoftware.code-spell-checker
@@ -71,3 +71,5 @@ enabled:
     uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
+  - id: ZooCodeOrganization.zoo-code
+    uuid: 78fb4645-8e93-4645-a325-838a7d203bc0

@@ -51,6 +51,8 @@ enabled:
     uuid: a8cd1fee-3471-4775-8dd4-3465260e3bc6
   - id: onecentlin.laravel-blade
     uuid: 3b58a227-618a-4b57-a06b-6984a2a8d1ba
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: redhat.vscode-yaml
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: shufo.vscode-blade-formatter
@@ -63,5 +65,7 @@ enabled:
     uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
   - id: wix.vscode-import-cost
     uuid: c46b0018-f317-4b6c-a785-d2039b27338f
+  - id: zhuangtongfa.material-theme
+    uuid: 26a529c9-2654-4b95-a63f-02f6a52429e6
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

@@ -6,7 +6,7 @@
     "git.suggestSmartCommit": false,
     "git.confirmEmptyCommits": false,
     "git.enableSmartCommit": true,
-    "workbench.colorTheme": "Night Owl",
+    "workbench.colorTheme": "One Dark Pro",
     "[html]": {
         "editor.defaultFormatter": "vscode.html-language-features"
     },
@@ -28,7 +28,6 @@
     "settings-repository.branch": "main",
     "settings-repository.repository": "https://github.com/luiscarneiro13/vscode.git",
     "workbench.iconTheme": "material-icon-theme",
-    "editor.fontSize": 13.5,
     "[scss]": {
         "editor.defaultFormatter": "vscode.css-language-features"
     },
@@ -174,4 +173,14 @@
     "docker.extension.enableComposeLanguageServer": false,
     "github.copilot.nextEditSuggestions.enabled": false,
     "bitoAI.appearance.fontSize (Match with IDE Font)": false,
+    "yaml.schemas": {
+        "file:///home/desarrollo/.vscode/extensions/continue.continue-1.2.22-linux-x64/config-yaml-schema.json": [
+            ".continue/**/*.yaml"
+        ]
+    },
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.letterSpacing": 0.5,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 22,
+    
 }

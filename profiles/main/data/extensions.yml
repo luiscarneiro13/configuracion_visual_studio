@@ -17,6 +17,8 @@ enabled:
     uuid: dff6b801-247e-40e9-82e8-8c9b1d19d1b8
   - id: christian-kohler.path-intellisense
     uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
+  - id: Continue.continue
+    uuid: c8d442ab-9ee3-4891-a5b0-994f14f54c94
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: dsznajder.es7-react-js-snippets
@@ -57,10 +59,6 @@ enabled:
     uuid: ad94c633-a9d5-4f78-b85f-c664e7d91a0f
   - id: shufo.vscode-blade-formatter
     uuid: 68a2e971-8ae5-493b-9c34-f4233fb14e40
-  - id: streetsidesoftware.code-spell-checker
-    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
-  - id: streetsidesoftware.code-spell-checker-spanish
-    uuid: 8d6dcf6f-1957-4dd5-809e-addb07d8c1fb
   - id: usernamehw.errorlens
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
   - id: Vue.volar

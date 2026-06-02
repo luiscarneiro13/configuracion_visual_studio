@@ -176,6 +176,9 @@
     "yaml.schemas": {
         "file:///home/desarrollo/.vscode/extensions/continue.continue-1.2.22-linux-x64/config-yaml-schema.json": [
             ".continue/**/*.yaml"
+        ],
+        "file:///d%3A/VSCode/data/extensions/continue.continue-1.2.22-win32-x64/config-yaml-schema.json": [
+            ".continue/**/*.yaml"
         ]
     },
     "editor.fontFamily": "Consolas, 'Courier New', monospace",

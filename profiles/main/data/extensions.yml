@@ -9,8 +9,6 @@ enabled:
     uuid: d7fc53c7-9da8-42c1-8df6-25b0f80fe379
   - id: bmewburn.vscode-intelephense-client
     uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
-  - id: ChakrounAnas.turbo-console-log
-    uuid: 6623619a-676d-4cde-943f-a3c193b44fc0
   - id: charliermarsh.ruff
     uuid: c2ca9b43-fa38-44fc-928e-5125970b9c00
   - id: christian-kohler.npm-intellisense

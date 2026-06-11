@@ -193,4 +193,5 @@
         "git show"
     ],
     "zoo-code.deniedCommands": [],
+    "claudeCode.preferredLocation": "panel",
 }
